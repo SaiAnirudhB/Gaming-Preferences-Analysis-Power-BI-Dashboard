@@ -1,0 +1,801 @@
+player_id,age,gender,region,hours_per_week,preferred_mode,primary_game_genre,plays_with_friends,voice_chat_usage,motivation,favorite_game,spending_per_month_inr,satisfaction_score,likelihood_to_continue
+1,21,Male,North America,5.2,Both,RPG,Yes,Always,Social Fun,FIFA,1913.0,8.1,High
+2,34,Male,Europe,7.2,Story Mode,RPG,No,Never,Relaxation,Valorant,780.0,7.9,Medium
+3,29,Male,Asia,14.3,Online Multiplayer,MOBA,Yes,Always,Social Fun,The Witcher 3,620.0,6.2,Medium
+4,25,Male,North America,13.0,Online Multiplayer,RPG,Yes,Always,Story,FIFA,782.0,8.0,High
+5,22,Male,North America,11.1,Both,FPS,Yes,Sometimes,Competition,FIFA,1200.0,6.6,Medium
+6,35,Male,Europe,14.5,Story Mode,Adventure,No,Sometimes,Social Fun,GTA V,956.0,6.0,Medium
+7,21,Female,North America,12.4,Online Multiplayer,MOBA,Yes,Always,Competition,FIFA,1355.0,8.5,High
+8,33,Male,Europe,6.0,Both,FPS,Yes,Sometimes,Competition,CS:GO,883.0,9.0,High
+9,25,Male,Europe,8.5,Online Multiplayer,MOBA,Yes,Always,Competition,Valorant,779.0,8.6,High
+10,25,Male,Europe,5.6,Story Mode,FPS,No,Never,Competition,CS:GO,1015.0,6.1,Medium
+11,35,Male,Europe,6.8,Story Mode,RPG,No,Never,Competition,GTA V,630.0,6.1,Medium
+12,18,Male,Asia,15.6,Online Multiplayer,RPG,Yes,Sometimes,Social Fun,Minecraft,1770.0,5.2,Low
+13,22,Female,Europe,8.9,Both,Adventure,Yes,Sometimes,Social Fun,GTA V,1312.0,8.1,High
+14,17,Male,South America,7.7,Story Mode,RPG,No,Never,Relaxation,Valorant,350.0,8.3,High
+15,35,Male,North America,7.4,Story Mode,MOBA,Yes,Always,Competition,FIFA,527.0,8.1,High
+16,16,Male,South America,11.4,Online Multiplayer,Adventure,Yes,Sometimes,Social Fun,The Witcher 3,1183.0,7.9,Medium
+17,26,Male,Asia,10.4,Online Multiplayer,Adventure,No,Never,Relaxation,GTA V,992.0,9.6,High
+18,20,Female,South America,12.6,Online Multiplayer,MOBA,Yes,Always,Social Fun,Valorant,1051.0,7.5,Medium
+19,16,Male,North America,10.1,Both,MOBA,Yes,Sometimes,Relaxation,The Witcher 3,804.0,8.2,High
+20,35,Male,South America,13.8,Online Multiplayer,FPS,Yes,Sometimes,Social Fun,FIFA,1128.0,7.5,Medium
+21,15,Male,Asia,6.2,Story Mode,RPG,Yes,Sometimes,Social Fun,Minecraft,816.0,6.9,Medium
+22,26,Male,Europe,7.6,Story Mode,Sports,No,Never,Story,GTA V,1182.0,7.8,Medium
+23,26,Female,South America,5.5,Online Multiplayer,FPS,Yes,Sometimes,Social Fun,Minecraft,1287.0,7.9,Medium
+24,31,Male,Asia,7.2,Story Mode,Adventure,No,Never,Relaxation,Valorant,1703.0,6.3,Medium
+25,24,Female,Asia,9.5,Online Multiplayer,Sports,Yes,Always,Social Fun,Minecraft,643.0,7.0,Medium
+26,30,Male,North America,10.3,Both,FPS,Yes,Sometimes,Competition,Minecraft,894.0,7.8,Medium
+27,29,Female,North America,8.5,Online Multiplayer,Adventure,Yes,Always,Story,Valorant,291.0,7.7,Medium
+28,29,Male,South America,14.7,Online Multiplayer,RPG,Yes,Always,Social Fun,Valorant,1813.0,7.5,Medium
+29,33,Male,Europe,8.9,Online Multiplayer,RPG,Yes,Sometimes,Relaxation,GTA V,0.0,8.6,High
+30,26,Male,Asia,7.2,Online Multiplayer,FPS,Yes,Always,Competition,Minecraft,1741.0,10.0,High
+31,34,Other,South America,5.9,Both,FPS,Yes,Always,Competition,The Witcher 3,947.0,7.6,Medium
+32,17,Female,Asia,7.1,Story Mode,Adventure,No,Never,Competition,Valorant,1109.0,7.6,Medium
+33,19,Male,Asia,1.0,Story Mode,MOBA,No,Never,Story,FIFA,817.0,5.9,Low
+34,33,Female,Europe,14.8,Online Multiplayer,MOBA,Yes,Always,Social Fun,Minecraft,916.0,7.5,Medium
+35,21,Male,Europe,5.8,Online Multiplayer,RPG,Yes,Sometimes,Social Fun,Valorant,1194.0,9.9,High
+36,35,Female,South America,17.7,Online Multiplayer,FPS,Yes,Sometimes,Story,The Witcher 3,82.0,7.9,Medium
+37,23,Male,Europe,6.4,Story Mode,Adventure,No,Sometimes,Relaxation,GTA V,574.0,6.9,Medium
+38,21,Female,Europe,3.7,Both,FPS,Yes,Sometimes,Social Fun,Minecraft,477.0,7.3,Medium
+39,32,Female,South America,13.7,Online Multiplayer,Sports,Yes,Always,Competition,Valorant,1124.0,8.3,High
+40,18,Female,Europe,14.1,Online Multiplayer,MOBA,Yes,Always,Competition,Valorant,902.0,10.0,High
+41,28,Male,North America,6.6,Story Mode,Adventure,Yes,Sometimes,Competition,FIFA,1209.0,6.6,Medium
+42,32,Male,Asia,13.3,Both,Sports,Yes,Always,Social Fun,FIFA,982.0,10.0,High
+43,23,Female,Asia,1.0,Story Mode,FPS,No,Sometimes,Relaxation,Minecraft,1429.0,6.6,Medium
+44,35,Male,Asia,9.1,Both,Adventure,Yes,Always,Social Fun,Valorant,530.0,7.4,Medium
+45,16,Female,Asia,14.7,Online Multiplayer,FPS,Yes,Sometimes,Relaxation,Minecraft,929.0,7.0,Medium
+46,34,Female,South America,11.7,Online Multiplayer,Sports,Yes,Always,Relaxation,Valorant,1455.0,7.7,Medium
+47,29,Male,Asia,4.2,Both,FPS,Yes,Always,Competition,FIFA,1355.0,7.0,Medium
+48,21,Female,Asia,2.9,Story Mode,Adventure,Yes,Always,Social Fun,The Witcher 3,160.0,6.9,Medium
+49,26,Male,Asia,11.1,Online Multiplayer,MOBA,Yes,Sometimes,Social Fun,CS:GO,389.0,6.6,Medium
+50,22,Female,Asia,7.8,Story Mode,FPS,No,Never,Competition,CS:GO,859.0,6.4,Medium
+51,29,Female,North America,9.0,Both,RPG,No,Never,Relaxation,Valorant,783.0,8.4,High
+52,17,Male,Asia,1.9,Story Mode,MOBA,No,Sometimes,Social Fun,FIFA,867.0,3.4,Low
+53,28,Male,North America,9.6,Story Mode,RPG,No,Never,Competition,GTA V,1298.0,6.9,Medium
+54,31,Female,South America,9.4,Online Multiplayer,FPS,Yes,Always,Social Fun,GTA V,1045.0,6.2,Medium
+55,18,Male,Europe,8.3,Story Mode,FPS,No,Sometimes,Social Fun,CS:GO,1074.0,6.3,Medium
+56,32,Male,Asia,5.7,Story Mode,FPS,No,Never,Social Fun,The Witcher 3,1235.0,5.4,Low
+57,22,Male,Europe,7.9,Both,MOBA,Yes,Always,Social Fun,CS:GO,1437.0,7.9,Medium
+58,18,Male,Europe,6.5,Both,RPG,Yes,Sometimes,Social Fun,Valorant,0.0,8.6,High
+59,16,Male,South America,9.9,Both,FPS,Yes,Always,Competition,The Witcher 3,707.0,10.0,High
+60,20,Male,Europe,7.6,Online Multiplayer,RPG,Yes,Sometimes,Story,GTA V,459.0,8.4,High
+61,24,Male,North America,7.3,Story Mode,RPG,No,Never,Relaxation,FIFA,1138.0,5.4,Low
+62,18,Male,Europe,1.8,Both,FPS,Yes,Always,Social Fun,FIFA,669.0,6.6,Medium
+63,32,Male,Europe,7.9,Story Mode,RPG,No,Never,Social Fun,Valorant,938.0,6.3,Medium
+64,26,Male,Europe,4.8,Both,FPS,Yes,Never,Social Fun,CS:GO,1326.0,8.2,High
+65,16,Male,Asia,8.5,Both,FPS,Yes,Sometimes,Social Fun,Valorant,599.0,6.5,Medium
+66,24,Male,Asia,11.4,Online Multiplayer,Adventure,Yes,Always,Competition,FIFA,1081.0,5.0,Low
+67,18,Male,North America,5.2,Story Mode,FPS,No,Sometimes,Competition,GTA V,1677.0,4.8,Low
+68,28,Male,North America,9.8,Online Multiplayer,Adventure,Yes,Always,Social Fun,FIFA,1316.0,8.3,High
+69,30,Female,Asia,9.3,Online Multiplayer,RPG,No,Never,Social Fun,The Witcher 3,107.0,6.3,Medium
+70,29,Male,North America,8.1,Story Mode,RPG,No,Never,Social Fun,Minecraft,754.0,5.4,Low
+71,22,Female,Asia,9.4,Both,Adventure,Yes,Sometimes,Social Fun,FIFA,1078.0,9.1,High
+72,28,Female,South America,9.3,Online Multiplayer,RPG,Yes,Always,Relaxation,FIFA,1176.0,9.1,High
+73,22,Male,Europe,11.2,Online Multiplayer,MOBA,No,Never,Social Fun,Minecraft,774.0,8.4,High
+74,35,Female,Europe,11.8,Story Mode,Adventure,No,Never,Competition,The Witcher 3,580.0,7.4,Medium
+75,30,Other,North America,13.8,Online Multiplayer,RPG,Yes,Always,Competition,CS:GO,934.0,8.7,High
+76,27,Male,Asia,5.1,Online Multiplayer,MOBA,No,Never,Story,FIFA,357.0,5.2,Low
+77,32,Male,Asia,13.0,Online Multiplayer,Adventure,Yes,Always,Story,Valorant,1450.0,7.8,Medium
+78,29,Female,North America,18.9,Online Multiplayer,FPS,No,Sometimes,Relaxation,FIFA,1834.0,7.8,Medium
+79,35,Female,Asia,16.9,Online Multiplayer,FPS,Yes,Always,Social Fun,Valorant,1097.0,8.3,High
+80,27,Male,South America,9.5,Online Multiplayer,FPS,Yes,Always,Competition,The Witcher 3,784.0,7.9,Medium
+81,23,Female,Europe,14.0,Online Multiplayer,MOBA,Yes,Always,Relaxation,FIFA,1370.0,7.0,Medium
+82,29,Female,North America,7.8,Both,Adventure,Yes,Always,Social Fun,The Witcher 3,1286.0,6.0,Medium
+83,27,Female,North America,6.6,Story Mode,Sports,Yes,Always,Competition,The Witcher 3,762.0,7.8,Medium
+84,15,Female,Asia,3.9,Story Mode,Adventure,Yes,Always,Story,CS:GO,876.0,8.1,High
+85,21,Female,North America,16.5,Online Multiplayer,RPG,Yes,Always,Competition,FIFA,595.0,8.1,High
+86,23,Male,South America,10.9,Online Multiplayer,FPS,Yes,Always,Social Fun,Valorant,982.0,9.1,High
+87,15,Male,Asia,3.3,Story Mode,Adventure,Yes,Sometimes,Social Fun,Valorant,1049.0,9.4,High
+88,26,Male,Asia,8.9,Online Multiplayer,RPG,Yes,Never,Competition,FIFA,510.0,7.9,Medium
+89,22,Female,Asia,6.8,Online Multiplayer,Sports,Yes,Sometimes,Social Fun,Minecraft,363.0,7.9,Medium
+90,25,Male,Asia,6.3,Story Mode,FPS,Yes,Always,Relaxation,CS:GO,237.0,8.7,High
+91,33,Male,South America,8.7,Story Mode,RPG,No,Sometimes,Relaxation,CS:GO,1108.0,5.4,Low
+92,31,Male,Asia,12.7,Online Multiplayer,Adventure,Yes,Sometimes,Social Fun,CS:GO,894.0,7.5,Medium
+93,22,Male,North America,14.4,Online Multiplayer,Adventure,Yes,Always,Story,Valorant,858.0,8.8,High
+94,17,Female,South America,11.1,Story Mode,RPG,No,Never,Competition,The Witcher 3,1132.0,8.8,High
+95,17,Female,Europe,18.0,Online Multiplayer,MOBA,No,Never,Social Fun,Minecraft,450.0,7.8,Medium
+96,15,Male,Europe,6.8,Story Mode,FPS,Yes,Always,Relaxation,CS:GO,365.0,8.5,High
+97,19,Male,North America,9.8,Story Mode,Adventure,No,Sometimes,Relaxation,Valorant,1021.0,5.8,Low
+98,24,Male,North America,8.9,Both,Adventure,Yes,Sometimes,Competition,Valorant,36.0,8.1,High
+99,21,Male,South America,14.4,Online Multiplayer,MOBA,Yes,Sometimes,Story,The Witcher 3,771.0,8.4,High
+100,23,Male,Europe,13.1,Both,MOBA,Yes,Always,Relaxation,FIFA,2133.0,9.0,High
+101,21,Male,Europe,12.1,Story Mode,FPS,Yes,Always,Story,FIFA,226.0,8.9,High
+102,23,Male,Europe,11.5,Online Multiplayer,FPS,Yes,Always,Competition,CS:GO,685.0,8.3,High
+103,22,Male,Europe,6.6,Online Multiplayer,Sports,Yes,Sometimes,Relaxation,CS:GO,0.0,4.9,Low
+104,26,Male,Europe,8.0,Story Mode,RPG,No,Sometimes,Story,Minecraft,783.0,5.6,Low
+105,16,Male,Asia,17.9,Online Multiplayer,Sports,Yes,Always,Relaxation,The Witcher 3,1883.0,8.5,High
+106,15,Male,North America,16.1,Online Multiplayer,FPS,Yes,Sometimes,Social Fun,CS:GO,1133.0,8.7,High
+107,30,Male,Asia,13.2,Online Multiplayer,Adventure,Yes,Always,Competition,The Witcher 3,593.0,6.9,Medium
+108,19,Female,Europe,8.7,Both,MOBA,Yes,Sometimes,Competition,Valorant,1991.0,5.5,Low
+109,17,Male,South America,12.1,Both,Sports,No,Never,Social Fun,CS:GO,29.0,5.8,Low
+110,26,Male,South America,9.3,Story Mode,FPS,No,Never,Story,Valorant,1127.0,7.4,Medium
+111,22,Female,Europe,16.8,Online Multiplayer,Adventure,Yes,Sometimes,Social Fun,GTA V,932.0,9.5,High
+112,17,Male,Europe,8.6,Online Multiplayer,RPG,Yes,Always,Social Fun,The Witcher 3,776.0,7.3,Medium
+113,15,Female,South America,3.6,Story Mode,FPS,No,Never,Story,GTA V,1304.0,4.7,Low
+114,17,Male,Asia,9.9,Online Multiplayer,Adventure,Yes,Always,Competition,CS:GO,309.0,8.4,High
+115,19,Other,Asia,17.3,Online Multiplayer,Adventure,No,Never,Social Fun,Valorant,1056.0,5.5,Low
+116,29,Female,Europe,8.2,Story Mode,Sports,No,Sometimes,Competition,CS:GO,993.0,7.5,Medium
+117,28,Female,Asia,11.4,Both,RPG,Yes,Never,Competition,GTA V,464.0,8.6,High
+118,17,Female,South America,6.6,Story Mode,FPS,Yes,Always,Social Fun,CS:GO,1875.0,7.2,Medium
+119,15,Male,Asia,8.6,Story Mode,FPS,No,Never,Story,Minecraft,809.0,7.8,Medium
+120,19,Male,Europe,6.5,Both,RPG,Yes,Always,Competition,FIFA,831.0,7.5,Medium
+121,28,Female,South America,12.1,Online Multiplayer,FPS,Yes,Sometimes,Competition,GTA V,386.0,6.6,Medium
+122,21,Male,Asia,9.5,Story Mode,MOBA,No,Never,Competition,CS:GO,818.0,6.3,Medium
+123,23,Female,North America,3.6,Both,RPG,Yes,Never,Competition,Valorant,2067.0,9.0,High
+124,29,Male,South America,19.7,Online Multiplayer,Sports,Yes,Always,Social Fun,CS:GO,774.0,8.2,High
+125,29,Male,South America,4.8,Story Mode,Sports,Yes,Never,Social Fun,Valorant,1159.0,8.0,High
+126,24,Male,North America,7.0,Story Mode,Adventure,Yes,Sometimes,Competition,FIFA,1375.0,7.6,Medium
+127,27,Male,North America,8.4,Story Mode,Sports,Yes,Sometimes,Relaxation,CS:GO,809.0,9.2,High
+128,33,Male,South America,8.6,Story Mode,MOBA,No,Sometimes,Social Fun,FIFA,695.0,8.2,High
+129,21,Male,North America,8.5,Both,RPG,No,Never,Competition,GTA V,1136.0,7.4,Medium
+130,31,Male,Europe,3.6,Both,FPS,No,Sometimes,Relaxation,Valorant,779.0,6.3,Medium
+131,34,Male,Europe,15.9,Online Multiplayer,RPG,No,Never,Social Fun,Minecraft,734.0,7.6,Medium
+132,18,Male,Europe,10.3,Both,RPG,Yes,Always,Social Fun,GTA V,1370.0,8.6,High
+133,19,Female,South America,5.0,Online Multiplayer,MOBA,Yes,Always,Social Fun,Valorant,865.0,8.9,High
+134,21,Male,North America,5.9,Online Multiplayer,RPG,Yes,Always,Competition,FIFA,1507.0,5.7,Low
+135,27,Male,North America,12.2,Online Multiplayer,MOBA,Yes,Sometimes,Social Fun,The Witcher 3,854.0,5.9,Low
+136,29,Male,Asia,9.9,Online Multiplayer,Adventure,Yes,Sometimes,Competition,CS:GO,241.0,9.5,High
+137,25,Female,Asia,9.4,Online Multiplayer,FPS,Yes,Always,Competition,FIFA,0.0,6.8,Medium
+138,18,Male,North America,2.3,Both,Sports,Yes,Never,Competition,Valorant,0.0,6.9,Medium
+139,27,Female,North America,3.6,Story Mode,RPG,No,Never,Social Fun,Valorant,67.0,8.2,High
+140,21,Female,North America,5.0,Story Mode,RPG,Yes,Always,Competition,Valorant,1033.0,6.8,Medium
+141,33,Male,South America,6.8,Online Multiplayer,Adventure,Yes,Always,Relaxation,Valorant,414.0,8.6,High
+142,16,Male,North America,6.9,Both,FPS,Yes,Sometimes,Story,CS:GO,0.0,6.6,Medium
+143,24,Male,Asia,1.0,Both,Adventure,No,Never,Story,GTA V,835.0,7.0,Medium
+144,27,Male,South America,8.5,Both,RPG,Yes,Always,Competition,Minecraft,359.0,9.4,High
+145,35,Male,North America,12.0,Online Multiplayer,RPG,No,Never,Competition,The Witcher 3,1132.0,6.8,Medium
+146,20,Female,Asia,19.5,Online Multiplayer,Sports,No,Sometimes,Social Fun,CS:GO,1119.0,8.5,High
+147,26,Male,South America,14.9,Online Multiplayer,RPG,Yes,Sometimes,Social Fun,Valorant,1172.0,9.0,High
+148,26,Male,North America,19.3,Online Multiplayer,FPS,Yes,Never,Social Fun,CS:GO,0.0,8.1,High
+149,34,Male,North America,6.4,Online Multiplayer,RPG,Yes,Never,Relaxation,FIFA,923.0,9.3,High
+150,25,Female,North America,11.0,Both,Sports,Yes,Always,Social Fun,Minecraft,839.0,9.0,High
+151,21,Male,South America,13.0,Online Multiplayer,FPS,Yes,Always,Social Fun,Valorant,289.0,7.5,Medium
+152,15,Male,Asia,12.5,Online Multiplayer,FPS,Yes,Always,Story,The Witcher 3,0.0,9.2,High
+153,15,Female,Asia,11.5,Online Multiplayer,FPS,No,Never,Social Fun,Valorant,846.0,5.6,Low
+154,34,Female,Europe,12.4,Online Multiplayer,FPS,No,Never,Social Fun,Minecraft,1432.0,5.4,Low
+155,27,Male,North America,7.5,Online Multiplayer,MOBA,Yes,Always,Social Fun,The Witcher 3,0.0,8.3,High
+156,23,Male,Europe,14.3,Online Multiplayer,Adventure,Yes,Never,Competition,Minecraft,484.0,6.4,Medium
+157,17,Female,Europe,14.9,Online Multiplayer,RPG,Yes,Never,Competition,The Witcher 3,966.0,9.0,High
+158,21,Male,Asia,4.0,Both,Adventure,Yes,Always,Social Fun,GTA V,1462.0,8.8,High
+159,20,Male,South America,7.7,Both,RPG,Yes,Always,Competition,GTA V,744.0,8.1,High
+160,22,Male,South America,10.8,Online Multiplayer,Sports,Yes,Always,Relaxation,CS:GO,1866.0,5.7,Low
+161,23,Male,Asia,9.3,Online Multiplayer,Sports,Yes,Always,Relaxation,CS:GO,2.0,9.4,High
+162,19,Female,South America,3.8,Both,RPG,Yes,Sometimes,Story,The Witcher 3,0.0,8.5,High
+163,15,Female,Europe,12.1,Online Multiplayer,MOBA,No,Never,Relaxation,Valorant,1409.0,8.2,High
+164,33,Male,North America,13.0,Online Multiplayer,MOBA,Yes,Sometimes,Competition,FIFA,0.0,7.8,Medium
+165,24,Male,Asia,6.8,Both,FPS,Yes,Sometimes,Social Fun,FIFA,1131.0,7.4,Medium
+166,26,Male,North America,7.6,Online Multiplayer,FPS,Yes,Always,Social Fun,Valorant,753.0,7.6,Medium
+167,29,Male,South America,8.6,Story Mode,RPG,No,Never,Social Fun,Valorant,449.0,3.6,Low
+168,23,Female,North America,5.6,Story Mode,MOBA,Yes,Always,Relaxation,GTA V,687.0,7.4,Medium
+169,34,Male,South America,10.8,Online Multiplayer,Sports,Yes,Always,Relaxation,FIFA,255.0,7.7,Medium
+170,31,Male,South America,10.3,Online Multiplayer,MOBA,Yes,Always,Competition,The Witcher 3,741.0,7.8,Medium
+171,31,Male,Europe,1.0,Both,MOBA,Yes,Always,Social Fun,Minecraft,909.0,7.9,Medium
+172,34,Male,South America,9.1,Online Multiplayer,Adventure,Yes,Always,Competition,CS:GO,692.0,7.3,Medium
+173,26,Male,Europe,18.9,Online Multiplayer,MOBA,Yes,Always,Story,Minecraft,608.0,7.8,Medium
+174,21,Female,Europe,10.2,Story Mode,MOBA,No,Sometimes,Competition,GTA V,1027.0,3.1,Low
+175,16,Male,Europe,3.6,Story Mode,RPG,No,Never,Relaxation,FIFA,1730.0,4.0,Low
+176,17,Female,Asia,14.7,Online Multiplayer,RPG,Yes,Always,Relaxation,Valorant,767.0,7.8,Medium
+177,31,Male,Asia,8.3,Both,MOBA,No,Never,Story,FIFA,1310.0,5.9,Low
+178,19,Male,South America,8.3,Online Multiplayer,FPS,Yes,Sometimes,Relaxation,The Witcher 3,417.0,7.9,Medium
+179,31,Male,Europe,3.0,Both,MOBA,No,Sometimes,Relaxation,GTA V,233.0,5.6,Low
+180,31,Female,Asia,5.1,Both,FPS,Yes,Never,Social Fun,Valorant,1127.0,6.7,Medium
+181,31,Female,Europe,11.2,Story Mode,RPG,No,Never,Social Fun,Minecraft,783.0,5.8,Low
+182,16,Male,North America,14.6,Online Multiplayer,MOBA,Yes,Always,Competition,The Witcher 3,1465.0,10.0,High
+183,16,Male,North America,2.0,Both,FPS,Yes,Sometimes,Social Fun,Minecraft,1563.0,9.2,High
+184,19,Female,North America,13.0,Online Multiplayer,FPS,Yes,Always,Story,CS:GO,1320.0,6.5,Medium
+185,15,Male,South America,2.2,Story Mode,RPG,No,Never,Social Fun,GTA V,1309.0,7.4,Medium
+186,15,Male,Europe,14.0,Online Multiplayer,MOBA,Yes,Sometimes,Story,The Witcher 3,0.0,9.5,High
+187,33,Female,North America,8.7,Online Multiplayer,FPS,Yes,Always,Social Fun,The Witcher 3,1122.0,8.0,High
+188,16,Male,Asia,10.9,Online Multiplayer,Sports,Yes,Always,Social Fun,Minecraft,1331.0,7.4,Medium
+189,35,Male,North America,1.0,Both,FPS,Yes,Always,Story,Valorant,264.0,10.0,High
+190,26,Male,North America,9.1,Both,Sports,Yes,Always,Social Fun,CS:GO,904.0,5.7,Low
+191,20,Male,North America,10.2,Online Multiplayer,Sports,Yes,Never,Social Fun,Minecraft,379.0,10.0,High
+192,18,Male,South America,13.7,Online Multiplayer,RPG,Yes,Always,Social Fun,The Witcher 3,1414.0,8.1,High
+193,25,Female,Asia,7.3,Story Mode,RPG,No,Sometimes,Relaxation,GTA V,422.0,4.8,Low
+194,31,Male,Europe,7.1,Online Multiplayer,RPG,Yes,Always,Social Fun,The Witcher 3,504.0,6.6,Medium
+195,20,Male,Asia,13.2,Online Multiplayer,Adventure,Yes,Sometimes,Competition,FIFA,668.0,7.1,Medium
+196,19,Male,Europe,10.3,Story Mode,FPS,No,Never,Competition,GTA V,2025.0,8.3,High
+197,34,Male,South America,5.4,Story Mode,FPS,No,Never,Relaxation,GTA V,1402.0,7.3,Medium
+198,16,Female,South America,6.0,Both,FPS,Yes,Sometimes,Relaxation,The Witcher 3,1706.0,8.4,High
+199,20,Male,South America,9.1,Online Multiplayer,RPG,Yes,Always,Competition,Valorant,0.0,9.3,High
+200,25,Male,South America,10.7,Online Multiplayer,FPS,Yes,Always,Social Fun,GTA V,265.0,5.9,Low
+201,30,Female,Europe,5.6,Story Mode,Adventure,No,Sometimes,Relaxation,FIFA,1569.0,8.9,High
+202,30,Male,North America,8.2,Both,Sports,Yes,Sometimes,Social Fun,Minecraft,20.0,9.1,High
+203,15,Male,Europe,2.5,Story Mode,RPG,No,Never,Competition,Valorant,564.0,5.4,Low
+204,23,Male,Asia,10.5,Story Mode,RPG,No,Never,Competition,Valorant,1928.0,6.4,Medium
+205,20,Male,South America,10.6,Online Multiplayer,RPG,Yes,Always,Story,Valorant,418.0,7.5,Medium
+206,30,Male,South America,4.0,Both,MOBA,Yes,Always,Competition,GTA V,0.0,7.9,Medium
+207,17,Male,Asia,7.8,Online Multiplayer,Sports,Yes,Sometimes,Social Fun,Valorant,924.0,8.2,High
+208,34,Female,Europe,17.6,Online Multiplayer,MOBA,Yes,Sometimes,Relaxation,The Witcher 3,10.0,9.6,High
+209,18,Male,North America,6.1,Story Mode,Sports,No,Never,Competition,Valorant,1519.0,7.0,Medium
+210,33,Male,North America,12.4,Online Multiplayer,FPS,Yes,Never,Social Fun,FIFA,453.0,7.1,Medium
+211,17,Male,Asia,17.2,Online Multiplayer,MOBA,No,Never,Competition,CS:GO,352.0,7.2,Medium
+212,33,Male,North America,4.6,Both,MOBA,No,Sometimes,Relaxation,FIFA,915.0,8.3,High
+213,34,Female,Europe,14.5,Online Multiplayer,FPS,Yes,Always,Story,GTA V,698.0,9.3,High
+214,21,Male,Europe,7.4,Story Mode,Sports,No,Never,Competition,Valorant,1026.0,7.2,Medium
+215,34,Male,Asia,9.4,Online Multiplayer,FPS,Yes,Sometimes,Social Fun,Valorant,1161.0,8.1,High
+216,23,Female,Europe,4.9,Both,Adventure,Yes,Always,Social Fun,The Witcher 3,791.0,9.2,High
+217,15,Male,South America,11.1,Online Multiplayer,FPS,Yes,Always,Story,Minecraft,319.0,8.9,High
+218,22,Male,Asia,11.2,Online Multiplayer,RPG,Yes,Always,Relaxation,Valorant,1265.0,8.9,High
+219,21,Male,Europe,8.8,Both,Adventure,Yes,Sometimes,Social Fun,FIFA,553.0,6.6,Medium
+220,32,Male,Asia,9.2,Both,RPG,Yes,Always,Social Fun,GTA V,465.0,8.9,High
+221,22,Female,North America,1.0,Online Multiplayer,RPG,No,Never,Relaxation,CS:GO,971.0,7.8,Medium
+222,15,Male,Europe,10.7,Online Multiplayer,FPS,Yes,Always,Social Fun,Valorant,0.0,9.3,High
+223,25,Male,South America,5.9,Both,MOBA,Yes,Sometimes,Social Fun,CS:GO,1095.0,8.5,High
+224,32,Male,Europe,11.4,Story Mode,FPS,No,Sometimes,Social Fun,Valorant,998.0,4.5,Low
+225,24,Female,Asia,4.0,Both,RPG,Yes,Sometimes,Social Fun,GTA V,1461.0,8.3,High
+226,17,Male,Asia,5.4,Both,Sports,Yes,Always,Competition,Minecraft,650.0,9.0,High
+227,21,Female,Europe,11.9,Online Multiplayer,MOBA,Yes,Always,Relaxation,FIFA,1562.0,7.4,Medium
+228,30,Male,South America,17.4,Online Multiplayer,RPG,Yes,Sometimes,Social Fun,GTA V,1165.0,8.2,High
+229,30,Female,South America,8.7,Story Mode,MOBA,No,Never,Social Fun,CS:GO,887.0,4.8,Low
+230,34,Female,South America,13.8,Online Multiplayer,MOBA,Yes,Always,Social Fun,Valorant,1808.0,8.7,High
+231,31,Female,Asia,7.3,Online Multiplayer,MOBA,Yes,Always,Competition,CS:GO,948.0,7.9,Medium
+232,16,Female,Europe,4.9,Both,RPG,Yes,Always,Social Fun,FIFA,641.0,9.1,High
+233,15,Male,North America,10.4,Story Mode,FPS,No,Never,Competition,GTA V,962.0,5.3,Low
+234,30,Male,Asia,9.3,Both,FPS,Yes,Sometimes,Relaxation,CS:GO,631.0,7.5,Medium
+235,26,Male,South America,3.0,Story Mode,FPS,Yes,Always,Social Fun,CS:GO,1087.0,7.0,Medium
+236,19,Male,Europe,9.6,Story Mode,RPG,No,Never,Social Fun,FIFA,1560.0,6.7,Medium
+237,19,Male,South America,13.1,Online Multiplayer,FPS,Yes,Always,Social Fun,Valorant,896.0,7.4,Medium
+238,23,Male,North America,14.7,Online Multiplayer,Adventure,Yes,Always,Competition,CS:GO,945.0,9.1,High
+239,23,Male,South America,11.5,Online Multiplayer,RPG,Yes,Always,Story,FIFA,1299.0,5.9,Low
+240,17,Male,South America,15.7,Online Multiplayer,FPS,Yes,Always,Social Fun,Valorant,1494.0,6.8,Medium
+241,33,Female,North America,4.9,Both,MOBA,No,Never,Story,Minecraft,674.0,5.1,Low
+242,30,Male,Europe,10.7,Online Multiplayer,RPG,Yes,Sometimes,Social Fun,Valorant,986.0,9.6,High
+243,30,Female,Asia,12.2,Online Multiplayer,FPS,Yes,Always,Relaxation,Minecraft,1301.0,6.8,Medium
+244,17,Female,Europe,8.4,Online Multiplayer,MOBA,Yes,Always,Competition,GTA V,1065.0,6.7,Medium
+245,34,Other,North America,13.4,Online Multiplayer,FPS,Yes,Never,Relaxation,FIFA,0.0,9.7,High
+246,15,Male,South America,13.4,Online Multiplayer,Adventure,Yes,Sometimes,Competition,Valorant,1391.0,7.9,Medium
+247,34,Female,Europe,12.2,Online Multiplayer,MOBA,Yes,Sometimes,Competition,Minecraft,1161.0,6.9,Medium
+248,25,Female,Asia,12.5,Online Multiplayer,RPG,Yes,Always,Relaxation,Minecraft,1197.0,9.3,High
+249,31,Female,North America,19.7,Online Multiplayer,MOBA,Yes,Always,Relaxation,GTA V,304.0,8.6,High
+250,22,Male,Europe,1.0,Online Multiplayer,RPG,Yes,Always,Competition,The Witcher 3,976.0,8.9,High
+251,18,Male,Asia,7.1,Both,RPG,Yes,Always,Social Fun,FIFA,1322.0,7.0,Medium
+252,20,Male,North America,10.6,Online Multiplayer,FPS,Yes,Always,Social Fun,The Witcher 3,460.0,8.4,High
+253,22,Male,Asia,17.8,Online Multiplayer,FPS,Yes,Never,Relaxation,Valorant,590.0,9.5,High
+254,34,Male,North America,9.4,Story Mode,Sports,No,Never,Competition,FIFA,1330.0,5.9,Low
+255,17,Female,South America,14.0,Online Multiplayer,RPG,Yes,Always,Competition,GTA V,566.0,9.1,High
+256,30,Female,Europe,6.4,Both,RPG,Yes,Always,Relaxation,Valorant,796.0,9.7,High
+257,17,Male,Asia,8.6,Story Mode,RPG,Yes,Always,Story,FIFA,383.0,8.5,High
+258,32,Female,North America,14.6,Online Multiplayer,RPG,Yes,Sometimes,Competition,FIFA,1810.0,7.3,Medium
+259,28,Male,Asia,10.1,Story Mode,FPS,No,Never,Relaxation,The Witcher 3,1160.0,7.4,Medium
+260,32,Female,Asia,7.8,Online Multiplayer,RPG,No,Never,Relaxation,Valorant,772.0,6.6,Medium
+261,16,Female,Europe,2.5,Story Mode,Adventure,No,Never,Social Fun,GTA V,679.0,2.8,Low
+262,17,Male,South America,13.5,Online Multiplayer,FPS,Yes,Always,Social Fun,GTA V,286.0,8.7,High
+263,30,Male,Asia,10.9,Both,FPS,Yes,Always,Relaxation,Valorant,845.0,4.1,Low
+264,23,Female,North America,7.7,Online Multiplayer,FPS,Yes,Never,Social Fun,Valorant,1233.0,8.3,High
+265,18,Male,North America,9.7,Story Mode,RPG,No,Never,Story,Minecraft,495.0,8.7,High
+266,15,Male,South America,7.4,Story Mode,MOBA,No,Sometimes,Social Fun,CS:GO,953.0,6.3,Medium
+267,18,Female,North America,10.9,Online Multiplayer,FPS,Yes,Never,Social Fun,The Witcher 3,716.0,8.4,High
+268,15,Male,South America,7.0,Online Multiplayer,FPS,Yes,Always,Story,Valorant,1590.0,8.2,High
+269,28,Female,North America,3.1,Story Mode,FPS,No,Never,Competition,Valorant,582.0,5.7,Low
+270,35,Male,Europe,4.8,Both,Adventure,Yes,Always,Social Fun,CS:GO,1289.0,9.4,High
+271,30,Female,Asia,5.8,Online Multiplayer,Adventure,Yes,Always,Relaxation,CS:GO,1597.0,9.1,High
+272,34,Male,Europe,14.2,Both,RPG,Yes,Sometimes,Relaxation,FIFA,711.0,8.8,High
+273,22,Female,Asia,6.9,Both,MOBA,Yes,Always,Competition,GTA V,606.0,6.8,Medium
+274,21,Female,Asia,7.8,Both,Adventure,Yes,Always,Social Fun,The Witcher 3,1361.0,8.0,High
+275,17,Male,Asia,17.3,Online Multiplayer,MOBA,Yes,Always,Relaxation,FIFA,9.0,9.4,High
+276,31,Male,Europe,8.1,Story Mode,MOBA,No,Never,Story,Valorant,1115.0,6.9,Medium
+277,15,Other,Asia,14.5,Online Multiplayer,FPS,Yes,Sometimes,Social Fun,CS:GO,112.0,9.9,High
+278,30,Male,Europe,9.1,Both,FPS,Yes,Sometimes,Story,Minecraft,1511.0,8.8,High
+279,26,Male,South America,11.4,Online Multiplayer,FPS,Yes,Always,Story,GTA V,774.0,10.0,High
+280,33,Male,North America,8.4,Online Multiplayer,FPS,No,Sometimes,Competition,FIFA,855.0,6.8,Medium
+281,28,Male,North America,3.6,Story Mode,Sports,Yes,Always,Relaxation,Minecraft,538.0,7.8,Medium
+282,20,Female,Asia,11.7,Online Multiplayer,RPG,Yes,Always,Social Fun,GTA V,109.0,7.9,Medium
+283,20,Male,Europe,11.2,Both,FPS,Yes,Sometimes,Social Fun,Minecraft,1533.0,8.7,High
+284,27,Male,North America,4.5,Both,MOBA,Yes,Always,Relaxation,CS:GO,814.0,7.1,Medium
+285,33,Male,Europe,8.0,Story Mode,RPG,Yes,Always,Story,FIFA,2504.0,6.1,Medium
+286,22,Male,Europe,15.9,Online Multiplayer,FPS,Yes,Always,Relaxation,FIFA,495.0,8.5,High
+287,16,Male,Asia,3.9,Story Mode,RPG,No,Sometimes,Competition,GTA V,577.0,7.2,Medium
+288,35,Male,North America,16.1,Online Multiplayer,RPG,Yes,Sometimes,Social Fun,Minecraft,451.0,7.4,Medium
+289,15,Female,Asia,15.9,Online Multiplayer,MOBA,Yes,Always,Social Fun,CS:GO,812.0,7.2,Medium
+290,29,Male,Asia,8.0,Both,FPS,Yes,Sometimes,Competition,Valorant,1688.0,8.1,High
+291,15,Male,North America,9.2,Online Multiplayer,FPS,Yes,Always,Social Fun,FIFA,1405.0,6.7,Medium
+292,19,Female,North America,11.7,Online Multiplayer,RPG,Yes,Always,Competition,Valorant,148.0,7.8,Medium
+293,30,Male,South America,8.8,Both,FPS,No,Never,Social Fun,CS:GO,1502.0,6.9,Medium
+294,33,Female,South America,11.0,Online Multiplayer,Adventure,Yes,Sometimes,Relaxation,FIFA,1241.0,7.3,Medium
+295,18,Male,Europe,15.2,Online Multiplayer,RPG,Yes,Sometimes,Social Fun,FIFA,1141.0,8.4,High
+296,17,Male,North America,9.3,Both,RPG,Yes,Never,Competition,Minecraft,558.0,8.8,High
+297,31,Male,South America,4.6,Online Multiplayer,Sports,Yes,Sometimes,Competition,Valorant,595.0,7.6,Medium
+298,31,Male,Europe,2.0,Both,Adventure,Yes,Always,Social Fun,Minecraft,969.0,9.2,High
+299,26,Female,Europe,2.5,Both,FPS,Yes,Sometimes,Social Fun,The Witcher 3,623.0,6.8,Medium
+300,28,Male,Europe,8.0,Both,RPG,Yes,Never,Social Fun,Valorant,1556.0,6.2,Medium
+301,35,Male,South America,5.3,Story Mode,MOBA,No,Never,Story,Valorant,602.0,9.1,High
+302,20,Male,North America,8.1,Online Multiplayer,Adventure,Yes,Always,Social Fun,The Witcher 3,0.0,6.7,Medium
+303,17,Male,Asia,15.4,Online Multiplayer,FPS,No,Never,Relaxation,CS:GO,249.0,4.0,Low
+304,23,Female,Europe,12.6,Both,Sports,Yes,Sometimes,Story,CS:GO,281.0,10.0,High
+305,19,Male,South America,3.3,Both,RPG,Yes,Sometimes,Relaxation,FIFA,768.0,6.1,Medium
+306,31,Male,South America,8.0,Story Mode,FPS,No,Never,Social Fun,GTA V,1008.0,4.1,Low
+307,28,Male,Asia,7.8,Online Multiplayer,FPS,Yes,Sometimes,Story,Minecraft,927.0,8.0,High
+308,35,Male,Asia,16.1,Online Multiplayer,FPS,Yes,Never,Social Fun,GTA V,1130.0,8.3,High
+309,17,Female,South America,14.4,Online Multiplayer,MOBA,Yes,Always,Competition,FIFA,774.0,6.9,Medium
+310,15,Male,North America,4.0,Story Mode,FPS,No,Never,Story,GTA V,792.0,9.3,High
+311,34,Female,Asia,9.1,Online Multiplayer,FPS,No,Never,Competition,Valorant,1776.0,7.1,Medium
+312,35,Male,South America,7.2,Both,MOBA,No,Sometimes,Competition,Valorant,1503.0,6.8,Medium
+313,15,Male,Asia,5.2,Story Mode,FPS,No,Sometimes,Social Fun,The Witcher 3,1104.0,4.7,Low
+314,17,Female,North America,9.2,Online Multiplayer,FPS,Yes,Always,Social Fun,The Witcher 3,1358.0,7.8,Medium
+315,32,Male,Europe,3.9,Story Mode,FPS,No,Never,Competition,FIFA,0.0,4.0,Low
+316,24,Male,Asia,8.6,Online Multiplayer,FPS,Yes,Always,Social Fun,FIFA,489.0,8.5,High
+317,17,Female,North America,9.9,Story Mode,FPS,No,Never,Story,FIFA,684.0,7.8,Medium
+318,22,Male,South America,8.0,Story Mode,Adventure,Yes,Always,Story,Valorant,495.0,9.2,High
+319,28,Female,Asia,15.5,Both,FPS,Yes,Always,Story,GTA V,127.0,9.2,High
+320,32,Male,Asia,6.1,Both,FPS,Yes,Always,Competition,Minecraft,1110.0,8.0,High
+321,29,Female,South America,10.4,Online Multiplayer,MOBA,Yes,Sometimes,Relaxation,FIFA,1593.0,7.4,Medium
+322,16,Female,Europe,16.0,Online Multiplayer,Adventure,Yes,Always,Story,FIFA,894.0,9.0,High
+323,24,Male,South America,9.4,Story Mode,RPG,No,Never,Story,Valorant,1224.0,4.9,Low
+324,16,Female,Asia,13.0,Online Multiplayer,RPG,Yes,Sometimes,Competition,Minecraft,879.0,8.1,High
+325,31,Male,South America,9.2,Online Multiplayer,FPS,Yes,Always,Social Fun,Valorant,679.0,8.6,High
+326,22,Female,North America,11.5,Online Multiplayer,RPG,Yes,Sometimes,Social Fun,Minecraft,1360.0,9.2,High
+327,15,Male,South America,5.3,Story Mode,RPG,Yes,Always,Competition,Valorant,186.0,8.3,High
+328,23,Male,Asia,11.6,Online Multiplayer,RPG,No,Never,Competition,GTA V,0.0,5.2,Low
+329,25,Male,South America,11.9,Story Mode,Sports,Yes,Always,Relaxation,FIFA,179.0,10.0,High
+330,30,Male,Europe,8.8,Both,FPS,Yes,Always,Social Fun,CS:GO,1327.0,9.8,High
+331,21,Male,South America,8.3,Online Multiplayer,MOBA,Yes,Always,Social Fun,CS:GO,944.0,6.8,Medium
+332,24,Female,Europe,10.0,Online Multiplayer,FPS,No,Sometimes,Social Fun,FIFA,1088.0,4.9,Low
+333,17,Female,North America,9.3,Online Multiplayer,MOBA,Yes,Always,Social Fun,FIFA,1738.0,7.1,Medium
+334,32,Female,Europe,4.7,Both,Adventure,No,Never,Social Fun,FIFA,318.0,4.8,Low
+335,27,Male,South America,21.0,Online Multiplayer,MOBA,Yes,Always,Relaxation,FIFA,1502.0,10.0,High
+336,21,Male,Asia,10.1,Online Multiplayer,FPS,Yes,Sometimes,Competition,Minecraft,702.0,7.4,Medium
+337,18,Male,Europe,11.3,Online Multiplayer,RPG,Yes,Always,Relaxation,GTA V,626.0,8.2,High
+338,27,Male,North America,8.8,Both,RPG,No,Never,Social Fun,CS:GO,941.0,8.7,High
+339,34,Male,Europe,9.2,Online Multiplayer,Adventure,Yes,Always,Social Fun,The Witcher 3,1019.0,10.0,High
+340,15,Male,Europe,5.9,Both,RPG,Yes,Always,Competition,CS:GO,795.0,9.0,High
+341,22,Female,Europe,6.2,Both,RPG,Yes,Always,Story,CS:GO,1205.0,7.0,Medium
+342,28,Male,North America,5.0,Online Multiplayer,RPG,Yes,Sometimes,Social Fun,Valorant,943.0,5.5,Low
+343,30,Male,South America,4.6,Both,FPS,Yes,Always,Relaxation,FIFA,800.0,9.2,High
+344,28,Male,Europe,10.6,Online Multiplayer,RPG,No,Never,Social Fun,FIFA,692.0,5.9,Low
+345,26,Male,Europe,6.3,Both,FPS,Yes,Sometimes,Story,FIFA,1019.0,9.0,High
+346,33,Male,Asia,7.3,Story Mode,Sports,Yes,Sometimes,Relaxation,Valorant,222.0,8.4,High
+347,29,Female,North America,6.5,Both,Adventure,Yes,Always,Social Fun,GTA V,363.0,5.8,Low
+348,16,Male,Europe,12.8,Online Multiplayer,Sports,Yes,Always,Relaxation,GTA V,716.0,7.0,Medium
+349,16,Male,North America,5.3,Online Multiplayer,FPS,Yes,Never,Social Fun,The Witcher 3,1172.0,7.6,Medium
+350,33,Male,Europe,13.2,Online Multiplayer,MOBA,Yes,Sometimes,Story,GTA V,1971.0,7.2,Medium
+351,31,Female,South America,5.8,Online Multiplayer,MOBA,Yes,Always,Competition,GTA V,820.0,8.1,High
+352,34,Female,South America,14.3,Online Multiplayer,Adventure,Yes,Always,Competition,FIFA,13.0,8.5,High
+353,24,Female,Europe,8.8,Online Multiplayer,Adventure,Yes,Always,Relaxation,Minecraft,505.0,10.0,High
+354,20,Male,South America,8.2,Online Multiplayer,FPS,Yes,Always,Relaxation,CS:GO,1229.0,8.6,High
+355,29,Male,Europe,13.1,Online Multiplayer,MOBA,Yes,Sometimes,Social Fun,GTA V,415.0,9.8,High
+356,25,Male,South America,13.2,Both,RPG,No,Never,Relaxation,GTA V,247.0,7.8,Medium
+357,19,Female,Asia,13.5,Online Multiplayer,FPS,No,Sometimes,Social Fun,Valorant,1227.0,3.1,Low
+358,15,Female,Asia,12.8,Online Multiplayer,FPS,No,Never,Social Fun,The Witcher 3,1132.0,8.1,High
+359,22,Male,Asia,12.9,Online Multiplayer,Sports,Yes,Always,Relaxation,Minecraft,164.0,6.9,Medium
+360,35,Female,North America,13.5,Online Multiplayer,MOBA,Yes,Sometimes,Social Fun,Valorant,453.0,6.8,Medium
+361,26,Female,North America,8.5,Both,Sports,Yes,Sometimes,Social Fun,FIFA,1522.0,4.8,Low
+362,26,Male,Asia,10.4,Online Multiplayer,Adventure,Yes,Always,Relaxation,CS:GO,1326.0,9.0,High
+363,19,Other,North America,4.4,Story Mode,FPS,Yes,Sometimes,Social Fun,The Witcher 3,301.0,6.5,Medium
+364,21,Female,South America,8.5,Both,FPS,Yes,Always,Relaxation,Valorant,0.0,9.7,High
+365,18,Male,Europe,6.6,Both,FPS,Yes,Always,Social Fun,GTA V,1034.0,7.8,Medium
+366,20,Male,Europe,3.5,Story Mode,FPS,No,Sometimes,Social Fun,GTA V,752.0,6.0,Medium
+367,27,Male,Europe,11.5,Both,RPG,No,Never,Social Fun,The Witcher 3,991.0,6.6,Medium
+368,34,Male,Asia,4.6,Both,FPS,Yes,Always,Competition,GTA V,1217.0,8.2,High
+369,29,Male,North America,7.1,Story Mode,RPG,No,Sometimes,Relaxation,Valorant,422.0,8.4,High
+370,17,Male,South America,6.5,Story Mode,Sports,Yes,Sometimes,Social Fun,Valorant,684.0,8.7,High
+371,22,Other,South America,3.8,Story Mode,RPG,No,Never,Social Fun,GTA V,450.0,3.9,Low
+372,34,Male,Asia,7.6,Story Mode,MOBA,No,Never,Story,GTA V,468.0,7.7,Medium
+373,30,Male,South America,8.2,Story Mode,Adventure,No,Never,Social Fun,FIFA,1182.0,9.4,High
+374,27,Male,South America,12.5,Online Multiplayer,FPS,No,Never,Story,CS:GO,972.0,6.7,Medium
+375,32,Male,South America,10.6,Online Multiplayer,RPG,No,Sometimes,Social Fun,The Witcher 3,119.0,6.8,Medium
+376,24,Female,South America,7.6,Online Multiplayer,FPS,Yes,Always,Relaxation,Valorant,1263.0,6.4,Medium
+377,33,Male,North America,8.0,Online Multiplayer,FPS,Yes,Sometimes,Social Fun,The Witcher 3,725.0,7.6,Medium
+378,31,Male,South America,11.9,Online Multiplayer,Adventure,No,Sometimes,Story,FIFA,1286.0,7.3,Medium
+379,33,Male,Europe,5.0,Online Multiplayer,FPS,Yes,Sometimes,Relaxation,Valorant,393.0,7.6,Medium
+380,19,Female,Asia,5.4,Story Mode,FPS,Yes,Always,Competition,FIFA,437.0,8.4,High
+381,35,Female,North America,12.4,Online Multiplayer,RPG,Yes,Sometimes,Social Fun,FIFA,1026.0,8.2,High
+382,23,Male,South America,9.7,Both,Sports,Yes,Sometimes,Relaxation,Minecraft,352.0,9.6,High
+383,26,Male,North America,8.1,Online Multiplayer,MOBA,Yes,Always,Competition,GTA V,763.0,7.4,Medium
+384,35,Male,South America,7.1,Online Multiplayer,Adventure,Yes,Always,Social Fun,Minecraft,295.0,6.3,Medium
+385,15,Male,Europe,1.7,Story Mode,FPS,Yes,Sometimes,Social Fun,The Witcher 3,704.0,6.8,Medium
+386,15,Male,Asia,1.0,Story Mode,MOBA,Yes,Always,Relaxation,The Witcher 3,884.0,8.2,High
+387,29,Male,South America,20.5,Online Multiplayer,MOBA,Yes,Always,Social Fun,GTA V,908.0,6.1,Medium
+388,16,Male,South America,4.0,Both,Adventure,Yes,Always,Competition,Minecraft,718.0,7.3,Medium
+389,30,Male,South America,4.1,Both,Sports,Yes,Always,Competition,The Witcher 3,1067.0,8.1,High
+390,22,Female,South America,14.2,Online Multiplayer,FPS,Yes,Never,Story,Minecraft,974.0,7.1,Medium
+391,27,Male,Asia,16.1,Online Multiplayer,Sports,Yes,Always,Story,GTA V,855.0,8.4,High
+392,35,Male,Asia,9.7,Both,Sports,Yes,Always,Story,Valorant,587.0,8.9,High
+393,15,Male,Europe,5.2,Story Mode,FPS,No,Never,Social Fun,FIFA,1434.0,5.1,Low
+394,30,Male,Asia,8.1,Story Mode,RPG,Yes,Sometimes,Story,FIFA,1093.0,6.1,Medium
+395,21,Female,South America,5.5,Both,Sports,No,Never,Social Fun,Minecraft,382.0,7.7,Medium
+396,19,Male,Europe,16.0,Online Multiplayer,FPS,Yes,Always,Competition,The Witcher 3,1224.0,8.2,High
+397,17,Male,Europe,10.9,Online Multiplayer,RPG,Yes,Never,Competition,Minecraft,1338.0,7.5,Medium
+398,26,Female,Europe,7.6,Online Multiplayer,Sports,No,Sometimes,Social Fun,Minecraft,859.0,3.4,Low
+399,30,Male,South America,4.8,Both,RPG,No,Never,Story,CS:GO,892.0,6.1,Medium
+400,33,Male,North America,6.5,Story Mode,FPS,No,Never,Social Fun,FIFA,0.0,7.3,Medium
+401,19,Female,South America,11.4,Story Mode,RPG,No,Never,Relaxation,GTA V,478.0,5.4,Low
+402,28,Male,Asia,10.3,Online Multiplayer,FPS,Yes,Always,Relaxation,Minecraft,1322.0,8.0,High
+403,19,Male,Asia,17.8,Online Multiplayer,RPG,Yes,Always,Relaxation,CS:GO,509.0,10.0,High
+404,29,Other,South America,11.8,Online Multiplayer,FPS,Yes,Sometimes,Social Fun,CS:GO,820.0,7.5,Medium
+405,31,Male,South America,13.8,Story Mode,Adventure,Yes,Always,Competition,FIFA,471.0,9.3,High
+406,28,Male,Europe,7.2,Story Mode,RPG,Yes,Sometimes,Relaxation,FIFA,1015.0,8.0,High
+407,34,Male,South America,19.7,Online Multiplayer,Adventure,No,Never,Social Fun,FIFA,1097.0,4.6,Low
+408,19,Female,Europe,3.9,Both,Adventure,Yes,Sometimes,Competition,GTA V,1110.0,7.6,Medium
+409,26,Male,Asia,2.6,Online Multiplayer,RPG,Yes,Sometimes,Social Fun,CS:GO,330.0,8.0,High
+410,30,Male,Europe,5.9,Both,Adventure,Yes,Always,Competition,The Witcher 3,953.0,8.8,High
+411,30,Male,South America,13.4,Online Multiplayer,FPS,No,Never,Story,GTA V,1688.0,8.1,High
+412,35,Male,Asia,11.8,Story Mode,RPG,Yes,Always,Competition,Valorant,1274.0,8.1,High
+413,21,Male,North America,11.1,Online Multiplayer,FPS,Yes,Sometimes,Competition,Minecraft,947.0,6.5,Medium
+414,18,Male,Europe,4.9,Both,Sports,Yes,Sometimes,Competition,FIFA,0.0,6.0,Medium
+415,15,Male,Asia,18.1,Online Multiplayer,FPS,Yes,Always,Competition,CS:GO,775.0,7.5,Medium
+416,19,Male,Europe,4.6,Online Multiplayer,RPG,Yes,Always,Social Fun,Minecraft,1723.0,6.6,Medium
+417,24,Male,Asia,10.8,Online Multiplayer,Adventure,Yes,Always,Social Fun,GTA V,1559.0,8.7,High
+418,19,Male,Asia,10.7,Online Multiplayer,RPG,Yes,Sometimes,Competition,Valorant,1131.0,8.7,High
+419,18,Male,Europe,15.4,Online Multiplayer,FPS,No,Never,Competition,GTA V,540.0,7.7,Medium
+420,16,Male,North America,5.3,Both,RPG,No,Sometimes,Competition,GTA V,926.0,2.7,Low
+421,34,Female,Asia,11.1,Online Multiplayer,Adventure,No,Never,Social Fun,The Witcher 3,1287.0,8.0,High
+422,24,Male,Asia,4.7,Both,Adventure,Yes,Always,Social Fun,Minecraft,1370.0,10.0,High
+423,33,Male,Asia,3.0,Story Mode,RPG,No,Never,Social Fun,The Witcher 3,1056.0,8.6,High
+424,15,Male,North America,9.6,Story Mode,RPG,Yes,Always,Story,GTA V,1328.0,9.1,High
+425,19,Female,North America,16.1,Online Multiplayer,RPG,No,Sometimes,Competition,Valorant,871.0,8.0,High
+426,27,Female,South America,9.8,Online Multiplayer,Adventure,Yes,Always,Social Fun,CS:GO,849.0,6.6,Medium
+427,18,Male,Europe,8.6,Both,RPG,Yes,Always,Social Fun,CS:GO,671.0,8.6,High
+428,30,Male,North America,7.0,Both,RPG,Yes,Sometimes,Story,Minecraft,1112.0,6.1,Medium
+429,30,Female,Europe,11.5,Online Multiplayer,FPS,Yes,Never,Social Fun,FIFA,1400.0,7.3,Medium
+430,16,Male,South America,13.5,Online Multiplayer,FPS,Yes,Sometimes,Relaxation,FIFA,1254.0,9.4,High
+431,31,Male,Europe,12.1,Online Multiplayer,FPS,Yes,Always,Social Fun,CS:GO,291.0,7.2,Medium
+432,34,Male,North America,1.0,Both,FPS,Yes,Always,Story,GTA V,318.0,6.5,Medium
+433,26,Male,Europe,6.6,Online Multiplayer,RPG,Yes,Sometimes,Story,GTA V,1452.0,8.8,High
+434,32,Female,North America,8.3,Online Multiplayer,Adventure,No,Sometimes,Competition,The Witcher 3,988.0,6.1,Medium
+435,17,Female,Europe,4.8,Both,FPS,Yes,Always,Social Fun,Minecraft,1008.0,7.0,Medium
+436,15,Male,North America,7.2,Online Multiplayer,Sports,Yes,Sometimes,Social Fun,The Witcher 3,997.0,9.5,High
+437,15,Male,North America,13.9,Online Multiplayer,FPS,Yes,Sometimes,Competition,FIFA,1776.0,6.9,Medium
+438,33,Other,Europe,6.2,Story Mode,MOBA,No,Never,Competition,CS:GO,677.0,10.0,High
+439,25,Female,South America,10.0,Both,Adventure,Yes,Never,Social Fun,GTA V,1458.0,7.9,Medium
+440,19,Male,Asia,14.6,Online Multiplayer,RPG,No,Never,Social Fun,CS:GO,1017.0,3.5,Low
+441,26,Female,South America,10.2,Online Multiplayer,FPS,Yes,Always,Competition,Valorant,100.0,9.1,High
+442,17,Other,Europe,11.1,Online Multiplayer,Adventure,No,Never,Competition,CS:GO,488.0,4.9,Low
+443,15,Female,South America,4.1,Online Multiplayer,RPG,No,Never,Social Fun,Valorant,596.0,6.7,Medium
+444,15,Male,North America,8.3,Story Mode,Sports,Yes,Always,Social Fun,The Witcher 3,1447.0,9.3,High
+445,22,Male,Asia,6.9,Online Multiplayer,RPG,Yes,Always,Story,The Witcher 3,1514.0,9.0,High
+446,24,Female,Europe,11.1,Online Multiplayer,Sports,Yes,Always,Competition,FIFA,1077.0,8.6,High
+447,25,Male,Europe,9.4,Online Multiplayer,FPS,Yes,Always,Relaxation,CS:GO,639.0,9.9,High
+448,26,Female,Europe,1.0,Story Mode,Adventure,No,Sometimes,Competition,CS:GO,445.0,5.6,Low
+449,27,Male,Asia,4.0,Story Mode,Adventure,No,Sometimes,Social Fun,Valorant,1469.0,7.0,Medium
+450,26,Male,North America,10.8,Both,Adventure,Yes,Always,Social Fun,The Witcher 3,258.0,8.2,High
+451,28,Male,Europe,8.1,Online Multiplayer,FPS,Yes,Always,Social Fun,Valorant,848.0,7.8,Medium
+452,16,Male,South America,6.4,Both,Adventure,Yes,Sometimes,Relaxation,The Witcher 3,2082.0,5.5,Low
+453,33,Female,Europe,9.2,Both,RPG,Yes,Always,Relaxation,Valorant,640.0,6.6,Medium
+454,32,Female,Europe,8.5,Online Multiplayer,Adventure,Yes,Always,Social Fun,The Witcher 3,264.0,6.5,Medium
+455,17,Female,Europe,10.6,Online Multiplayer,FPS,Yes,Sometimes,Story,Valorant,17.0,7.0,Medium
+456,31,Male,Europe,13.2,Online Multiplayer,MOBA,Yes,Always,Social Fun,The Witcher 3,2102.0,7.6,Medium
+457,22,Male,North America,14.7,Online Multiplayer,FPS,Yes,Always,Story,Minecraft,1074.0,7.6,Medium
+458,24,Male,South America,14.5,Online Multiplayer,MOBA,No,Never,Story,Valorant,465.0,6.4,Medium
+459,16,Male,North America,4.4,Online Multiplayer,MOBA,Yes,Always,Social Fun,CS:GO,805.0,6.5,Medium
+460,33,Male,South America,13.5,Online Multiplayer,MOBA,Yes,Never,Social Fun,FIFA,569.0,8.5,High
+461,23,Male,Europe,9.3,Both,RPG,Yes,Always,Competition,Minecraft,0.0,8.1,High
+462,21,Male,Asia,9.4,Online Multiplayer,RPG,No,Never,Relaxation,Minecraft,1294.0,8.2,High
+463,18,Male,North America,10.5,Both,Sports,No,Never,Competition,Valorant,917.0,10.0,High
+464,35,Other,Asia,6.4,Story Mode,FPS,Yes,Always,Story,FIFA,1252.0,8.2,High
+465,32,Female,North America,1.1,Both,RPG,Yes,Always,Relaxation,CS:GO,903.0,7.6,Medium
+466,27,Male,Europe,6.7,Story Mode,Adventure,No,Sometimes,Social Fun,Minecraft,966.0,6.1,Medium
+467,25,Male,North America,18.6,Online Multiplayer,Adventure,Yes,Always,Social Fun,CS:GO,0.0,8.1,High
+468,18,Female,Europe,4.0,Story Mode,FPS,No,Sometimes,Relaxation,The Witcher 3,1354.0,3.0,Low
+469,35,Male,North America,12.3,Online Multiplayer,Adventure,No,Never,Social Fun,FIFA,356.0,7.5,Medium
+470,18,Female,Europe,12.3,Online Multiplayer,MOBA,Yes,Sometimes,Relaxation,GTA V,484.0,5.7,Low
+471,24,Female,Europe,5.6,Both,FPS,Yes,Always,Social Fun,The Witcher 3,636.0,7.5,Medium
+472,19,Male,South America,11.1,Online Multiplayer,Sports,Yes,Sometimes,Social Fun,FIFA,0.0,8.0,High
+473,23,Male,Europe,11.9,Online Multiplayer,FPS,No,Never,Social Fun,Valorant,609.0,7.8,Medium
+474,17,Male,South America,4.0,Story Mode,RPG,No,Never,Relaxation,Valorant,574.0,8.0,High
+475,31,Male,Europe,4.9,Both,FPS,Yes,Always,Social Fun,CS:GO,711.0,6.0,Medium
+476,17,Male,Asia,6.6,Story Mode,FPS,Yes,Always,Relaxation,Minecraft,49.0,8.1,High
+477,30,Female,Europe,8.8,Online Multiplayer,Sports,Yes,Sometimes,Competition,GTA V,1364.0,9.0,High
+478,18,Male,Asia,9.1,Story Mode,RPG,No,Never,Relaxation,Valorant,1099.0,8.3,High
+479,32,Male,Asia,15.5,Online Multiplayer,RPG,No,Never,Competition,FIFA,468.0,7.1,Medium
+480,31,Female,Europe,10.5,Story Mode,FPS,No,Never,Social Fun,Minecraft,609.0,7.5,Medium
+481,21,Female,Asia,2.5,Both,RPG,Yes,Sometimes,Relaxation,Minecraft,1319.0,7.9,Medium
+482,19,Male,South America,6.1,Story Mode,RPG,Yes,Always,Social Fun,FIFA,771.0,8.2,High
+483,26,Male,North America,9.8,Both,RPG,Yes,Sometimes,Competition,Minecraft,280.0,9.6,High
+484,31,Male,Europe,18.5,Online Multiplayer,FPS,No,Sometimes,Social Fun,Valorant,858.0,8.9,High
+485,27,Male,Asia,11.4,Story Mode,MOBA,No,Never,Relaxation,FIFA,356.0,10.0,High
+486,17,Male,Europe,7.3,Both,RPG,Yes,Always,Story,FIFA,546.0,9.1,High
+487,23,Male,South America,13.1,Online Multiplayer,RPG,No,Never,Competition,CS:GO,875.0,6.2,Medium
+488,31,Female,Europe,2.3,Both,FPS,Yes,Never,Competition,GTA V,1428.0,7.0,Medium
+489,31,Male,Europe,13.8,Online Multiplayer,MOBA,Yes,Always,Relaxation,CS:GO,1912.0,8.3,High
+490,34,Female,Asia,5.6,Story Mode,RPG,No,Never,Social Fun,GTA V,1581.0,3.7,Low
+491,30,Other,South America,7.1,Both,RPG,Yes,Always,Story,FIFA,864.0,7.5,Medium
+492,27,Male,North America,6.9,Story Mode,FPS,No,Never,Social Fun,Minecraft,2029.0,6.1,Medium
+493,33,Female,North America,7.3,Online Multiplayer,Sports,Yes,Always,Story,GTA V,1179.0,8.1,High
+494,31,Male,Asia,4.6,Story Mode,FPS,No,Sometimes,Relaxation,FIFA,410.0,5.9,Low
+495,18,Female,Europe,8.4,Story Mode,MOBA,No,Never,Relaxation,FIFA,947.0,5.8,Low
+496,26,Male,Asia,6.9,Both,RPG,Yes,Never,Relaxation,CS:GO,572.0,9.0,High
+497,23,Male,Asia,13.6,Online Multiplayer,FPS,Yes,Always,Competition,CS:GO,276.0,8.3,High
+498,33,Male,Asia,12.1,Online Multiplayer,MOBA,No,Never,Competition,Minecraft,313.0,9.1,High
+499,26,Female,Europe,4.5,Story Mode,FPS,No,Sometimes,Social Fun,The Witcher 3,826.0,7.7,Medium
+500,23,Female,South America,17.4,Online Multiplayer,MOBA,Yes,Sometimes,Competition,Valorant,1277.0,9.4,High
+501,21,Male,Asia,6.6,Story Mode,Sports,Yes,Always,Competition,The Witcher 3,1434.0,7.0,Medium
+502,28,Female,Europe,9.3,Story Mode,MOBA,Yes,Sometimes,Story,The Witcher 3,278.0,6.1,Medium
+503,34,Male,South America,6.3,Both,FPS,Yes,Always,Competition,Minecraft,748.0,6.7,Medium
+504,33,Male,Asia,1.7,Story Mode,MOBA,Yes,Always,Social Fun,GTA V,1143.0,9.2,High
+505,29,Male,North America,6.4,Story Mode,RPG,Yes,Sometimes,Social Fun,Minecraft,976.0,8.6,High
+506,30,Male,South America,4.6,Online Multiplayer,MOBA,Yes,Always,Relaxation,Minecraft,1247.0,9.6,High
+507,35,Male,Asia,20.4,Online Multiplayer,Adventure,Yes,Always,Social Fun,FIFA,683.0,6.4,Medium
+508,19,Female,South America,19.3,Online Multiplayer,MOBA,No,Never,Social Fun,FIFA,1536.0,7.7,Medium
+509,17,Male,South America,4.2,Online Multiplayer,RPG,No,Sometimes,Relaxation,FIFA,898.0,5.6,Low
+510,26,Male,South America,5.8,Story Mode,RPG,Yes,Always,Competition,Valorant,1279.0,5.9,Low
+511,34,Male,South America,8.4,Story Mode,FPS,Yes,Always,Competition,GTA V,710.0,10.0,High
+512,35,Female,South America,9.6,Story Mode,MOBA,Yes,Always,Social Fun,GTA V,929.0,6.4,Medium
+513,18,Female,South America,8.5,Both,RPG,Yes,Never,Relaxation,FIFA,102.0,7.5,Medium
+514,35,Male,Asia,6.2,Both,RPG,Yes,Sometimes,Social Fun,The Witcher 3,482.0,7.8,Medium
+515,30,Female,North America,9.6,Both,MOBA,No,Never,Relaxation,Valorant,796.0,6.3,Medium
+516,21,Male,Europe,5.1,Story Mode,RPG,Yes,Always,Social Fun,The Witcher 3,950.0,7.1,Medium
+517,27,Female,South America,7.6,Story Mode,FPS,No,Sometimes,Story,CS:GO,2241.0,4.2,Low
+518,35,Male,Europe,1.1,Online Multiplayer,RPG,Yes,Sometimes,Competition,GTA V,709.0,8.9,High
+519,24,Female,Asia,11.1,Online Multiplayer,RPG,Yes,Sometimes,Competition,GTA V,212.0,8.0,High
+520,21,Male,South America,15.4,Online Multiplayer,RPG,No,Never,Competition,The Witcher 3,1751.0,9.6,High
+521,28,Male,North America,8.7,Both,FPS,Yes,Never,Competition,Valorant,1439.0,7.9,Medium
+522,19,Female,Europe,3.9,Both,FPS,No,Never,Social Fun,GTA V,322.0,6.0,Medium
+523,17,Male,South America,13.9,Online Multiplayer,FPS,Yes,Always,Relaxation,The Witcher 3,1133.0,10.0,High
+524,25,Male,Asia,7.9,Online Multiplayer,Adventure,Yes,Always,Social Fun,Minecraft,1318.0,8.4,High
+525,25,Male,North America,6.1,Both,FPS,No,Sometimes,Story,Minecraft,982.0,5.8,Low
+526,32,Male,Europe,5.9,Online Multiplayer,RPG,Yes,Always,Relaxation,Valorant,1063.0,7.0,Medium
+527,29,Male,Europe,10.0,Online Multiplayer,Sports,No,Never,Social Fun,The Witcher 3,584.0,6.2,Medium
+528,26,Male,South America,1.1,Both,FPS,Yes,Sometimes,Relaxation,Minecraft,1152.0,5.1,Low
+529,23,Male,North America,12.0,Online Multiplayer,RPG,Yes,Sometimes,Social Fun,Valorant,654.0,7.2,Medium
+530,24,Male,North America,6.8,Online Multiplayer,MOBA,No,Never,Social Fun,FIFA,0.0,7.2,Medium
+531,26,Female,North America,12.7,Story Mode,Sports,Yes,Always,Story,Valorant,998.0,7.8,Medium
+532,31,Male,North America,6.4,Both,Adventure,No,Never,Relaxation,CS:GO,62.0,5.9,Low
+533,20,Male,Asia,6.4,Story Mode,Adventure,Yes,Sometimes,Competition,FIFA,1407.0,7.5,Medium
+534,21,Male,North America,11.2,Online Multiplayer,MOBA,Yes,Sometimes,Social Fun,The Witcher 3,335.0,9.4,High
+535,28,Male,Europe,11.0,Online Multiplayer,RPG,Yes,Always,Social Fun,FIFA,0.0,9.2,High
+536,27,Female,Europe,15.7,Online Multiplayer,MOBA,Yes,Always,Story,FIFA,15.0,8.1,High
+537,22,Male,Asia,10.0,Story Mode,FPS,Yes,Always,Social Fun,The Witcher 3,879.0,7.9,Medium
+538,24,Male,Europe,6.2,Both,Sports,Yes,Always,Social Fun,The Witcher 3,993.0,7.8,Medium
+539,23,Female,Europe,6.6,Online Multiplayer,RPG,Yes,Always,Competition,Minecraft,194.0,8.3,High
+540,32,Female,North America,2.0,Both,RPG,Yes,Sometimes,Competition,CS:GO,364.0,8.1,High
+541,16,Male,Europe,14.2,Online Multiplayer,FPS,Yes,Sometimes,Competition,The Witcher 3,896.0,8.4,High
+542,19,Female,Asia,21.6,Online Multiplayer,Adventure,No,Sometimes,Social Fun,GTA V,1386.0,5.0,Low
+543,19,Female,North America,7.5,Online Multiplayer,FPS,No,Never,Social Fun,GTA V,295.0,8.0,High
+544,20,Male,South America,2.7,Online Multiplayer,MOBA,Yes,Never,Social Fun,CS:GO,1090.0,7.6,Medium
+545,33,Female,North America,12.9,Story Mode,MOBA,Yes,Always,Story,Valorant,31.0,8.2,High
+546,22,Female,Asia,7.5,Story Mode,FPS,Yes,Always,Social Fun,Valorant,1058.0,6.8,Medium
+547,30,Male,North America,14.5,Online Multiplayer,MOBA,Yes,Never,Relaxation,GTA V,1278.0,7.2,Medium
+548,27,Male,North America,12.6,Story Mode,MOBA,No,Never,Relaxation,The Witcher 3,1162.0,7.7,Medium
+549,15,Male,Asia,13.5,Online Multiplayer,Adventure,No,Never,Relaxation,CS:GO,1397.0,5.5,Low
+550,34,Female,North America,6.3,Both,RPG,Yes,Never,Story,Valorant,1364.0,8.3,High
+551,31,Other,Asia,14.8,Both,FPS,Yes,Sometimes,Social Fun,Valorant,1823.0,7.0,Medium
+552,21,Male,Asia,15.3,Online Multiplayer,FPS,No,Sometimes,Social Fun,FIFA,954.0,9.1,High
+553,27,Male,South America,1.0,Story Mode,FPS,No,Never,Competition,GTA V,1825.0,8.1,High
+554,18,Male,Europe,7.1,Online Multiplayer,Sports,Yes,Sometimes,Social Fun,The Witcher 3,428.0,8.2,High
+555,18,Male,Europe,19.3,Online Multiplayer,FPS,Yes,Always,Relaxation,CS:GO,797.0,7.6,Medium
+556,20,Male,North America,12.2,Online Multiplayer,MOBA,Yes,Always,Competition,Valorant,842.0,8.3,High
+557,33,Male,North America,6.9,Both,FPS,Yes,Always,Story,FIFA,379.0,10.0,High
+558,26,Female,South America,8.6,Story Mode,RPG,No,Never,Social Fun,GTA V,0.0,5.5,Low
+559,21,Male,South America,16.6,Online Multiplayer,MOBA,Yes,Always,Story,GTA V,1335.0,7.3,Medium
+560,24,Female,South America,5.4,Both,MOBA,No,Never,Social Fun,CS:GO,435.0,7.1,Medium
+561,33,Male,Asia,7.9,Story Mode,FPS,No,Never,Competition,Valorant,700.0,9.1,High
+562,21,Male,South America,4.7,Both,RPG,Yes,Sometimes,Competition,CS:GO,1692.0,7.9,Medium
+563,17,Male,South America,10.3,Story Mode,RPG,Yes,Never,Relaxation,CS:GO,1186.0,8.1,High
+564,27,Male,North America,4.8,Story Mode,FPS,Yes,Never,Competition,Minecraft,1770.0,8.6,High
+565,27,Female,South America,7.5,Online Multiplayer,FPS,Yes,Always,Story,FIFA,960.0,8.4,High
+566,32,Male,Asia,14.6,Online Multiplayer,RPG,Yes,Sometimes,Story,GTA V,1178.0,8.0,High
+567,34,Female,Asia,4.0,Both,RPG,Yes,Sometimes,Story,Minecraft,780.0,10.0,High
+568,22,Male,North America,19.4,Online Multiplayer,Adventure,Yes,Always,Social Fun,The Witcher 3,476.0,8.8,High
+569,23,Female,South America,3.1,Both,RPG,Yes,Always,Story,GTA V,1176.0,6.7,Medium
+570,21,Male,South America,5.7,Story Mode,RPG,No,Never,Relaxation,GTA V,682.0,6.5,Medium
+571,15,Female,Asia,13.7,Online Multiplayer,RPG,Yes,Never,Social Fun,FIFA,1222.0,7.2,Medium
+572,17,Female,South America,12.0,Online Multiplayer,Adventure,Yes,Always,Social Fun,The Witcher 3,615.0,8.2,High
+573,27,Male,South America,11.4,Online Multiplayer,MOBA,No,Sometimes,Social Fun,Valorant,812.0,6.6,Medium
+574,31,Male,South America,7.8,Both,RPG,No,Sometimes,Social Fun,The Witcher 3,852.0,5.8,Low
+575,15,Female,Europe,7.9,Online Multiplayer,MOBA,Yes,Always,Competition,Valorant,1438.0,8.0,High
+576,20,Female,North America,11.4,Online Multiplayer,FPS,Yes,Always,Story,The Witcher 3,688.0,7.6,Medium
+577,35,Male,Europe,5.2,Online Multiplayer,RPG,No,Never,Competition,CS:GO,1493.0,8.1,High
+578,20,Female,North America,9.7,Online Multiplayer,FPS,No,Never,Competition,The Witcher 3,448.0,10.0,High
+579,26,Female,Asia,10.0,Online Multiplayer,RPG,Yes,Sometimes,Story,Minecraft,1035.0,9.0,High
+580,27,Female,South America,8.9,Online Multiplayer,Adventure,Yes,Always,Social Fun,Minecraft,556.0,6.5,Medium
+581,27,Female,North America,3.7,Both,MOBA,Yes,Sometimes,Story,FIFA,1458.0,8.1,High
+582,29,Female,Europe,8.5,Online Multiplayer,FPS,Yes,Sometimes,Competition,Valorant,491.0,6.7,Medium
+583,35,Male,South America,12.4,Online Multiplayer,Adventure,Yes,Always,Competition,GTA V,542.0,7.3,Medium
+584,30,Male,Asia,10.6,Online Multiplayer,RPG,Yes,Always,Social Fun,FIFA,272.0,8.6,High
+585,35,Male,North America,11.5,Online Multiplayer,FPS,No,Never,Competition,Minecraft,952.0,7.4,Medium
+586,25,Female,North America,7.5,Both,FPS,Yes,Sometimes,Social Fun,Minecraft,1196.0,8.9,High
+587,19,Female,North America,10.7,Story Mode,FPS,No,Never,Relaxation,Valorant,1142.0,8.3,High
+588,18,Male,South America,13.5,Online Multiplayer,FPS,Yes,Sometimes,Social Fun,Minecraft,828.0,9.5,High
+589,17,Female,Europe,7.2,Story Mode,FPS,No,Never,Story,Minecraft,570.0,3.1,Low
+590,33,Female,Europe,14.5,Online Multiplayer,FPS,Yes,Always,Social Fun,Valorant,761.0,7.5,Medium
+591,34,Male,North America,14.3,Online Multiplayer,FPS,Yes,Never,Social Fun,Minecraft,780.0,4.9,Low
+592,32,Male,Asia,9.5,Both,Adventure,Yes,Always,Relaxation,GTA V,1026.0,7.9,Medium
+593,29,Male,Asia,5.6,Both,RPG,Yes,Always,Social Fun,CS:GO,992.0,8.7,High
+594,23,Male,Europe,4.1,Both,Sports,No,Sometimes,Relaxation,FIFA,1770.0,8.7,High
+595,31,Male,Asia,17.7,Online Multiplayer,RPG,Yes,Always,Story,GTA V,920.0,7.3,Medium
+596,28,Male,Europe,11.6,Story Mode,MOBA,No,Sometimes,Relaxation,GTA V,1080.0,4.9,Low
+597,29,Male,North America,18.3,Online Multiplayer,MOBA,No,Never,Social Fun,CS:GO,936.0,7.0,Medium
+598,15,Male,Europe,9.8,Online Multiplayer,Adventure,Yes,Always,Competition,FIFA,737.0,8.9,High
+599,35,Male,Europe,9.2,Both,RPG,Yes,Always,Relaxation,GTA V,1077.0,8.6,High
+600,17,Male,North America,11.3,Online Multiplayer,MOBA,No,Never,Relaxation,Minecraft,690.0,8.5,High
+601,30,Female,Asia,9.7,Both,FPS,Yes,Never,Social Fun,CS:GO,871.0,8.4,High
+602,25,Male,Europe,5.5,Story Mode,FPS,No,Never,Competition,FIFA,1480.0,8.1,High
+603,26,Female,Europe,9.2,Online Multiplayer,RPG,Yes,Always,Competition,The Witcher 3,657.0,7.9,Medium
+604,24,Female,North America,5.4,Story Mode,RPG,No,Never,Social Fun,Valorant,1094.0,5.7,Low
+605,30,Male,Asia,14.1,Story Mode,FPS,Yes,Sometimes,Social Fun,Minecraft,0.0,8.6,High
+606,22,Male,Europe,12.3,Online Multiplayer,Sports,Yes,Sometimes,Competition,CS:GO,807.0,9.8,High
+607,20,Male,North America,11.2,Both,Adventure,Yes,Sometimes,Relaxation,Valorant,654.0,7.3,Medium
+608,26,Male,Europe,5.4,Story Mode,RPG,Yes,Sometimes,Story,The Witcher 3,960.0,7.7,Medium
+609,35,Male,South America,12.2,Online Multiplayer,Sports,Yes,Always,Competition,GTA V,782.0,8.0,High
+610,22,Male,North America,1.0,Story Mode,RPG,No,Never,Social Fun,GTA V,971.0,5.2,Low
+611,18,Male,Asia,10.8,Both,Sports,Yes,Always,Social Fun,FIFA,711.0,8.4,High
+612,22,Male,Asia,17.1,Online Multiplayer,RPG,Yes,Sometimes,Story,CS:GO,1093.0,9.1,High
+613,32,Male,Asia,3.3,Both,FPS,Yes,Sometimes,Story,CS:GO,43.0,10.0,High
+614,19,Male,Asia,9.7,Online Multiplayer,MOBA,Yes,Always,Story,FIFA,956.0,7.2,Medium
+615,23,Male,Europe,10.5,Both,Adventure,No,Sometimes,Relaxation,Valorant,431.0,6.8,Medium
+616,18,Male,Europe,11.1,Story Mode,MOBA,No,Never,Social Fun,GTA V,1484.0,9.4,High
+617,31,Male,Asia,9.7,Online Multiplayer,Sports,No,Sometimes,Relaxation,GTA V,423.0,6.2,Medium
+618,23,Other,Asia,16.0,Online Multiplayer,MOBA,No,Sometimes,Competition,CS:GO,1398.0,10.0,High
+619,15,Male,Asia,8.2,Both,Adventure,Yes,Always,Social Fun,CS:GO,894.0,7.7,Medium
+620,35,Male,Europe,7.2,Online Multiplayer,MOBA,Yes,Sometimes,Relaxation,FIFA,0.0,8.4,High
+621,34,Male,Asia,8.6,Story Mode,Adventure,Yes,Always,Social Fun,The Witcher 3,462.0,6.4,Medium
+622,27,Male,Asia,11.9,Online Multiplayer,RPG,Yes,Sometimes,Social Fun,Valorant,1324.0,7.4,Medium
+623,30,Female,South America,10.8,Both,MOBA,No,Never,Competition,Minecraft,1296.0,4.5,Low
+624,27,Female,South America,9.6,Story Mode,FPS,No,Sometimes,Competition,The Witcher 3,250.0,5.5,Low
+625,28,Male,Asia,10.2,Both,Adventure,Yes,Always,Story,The Witcher 3,1681.0,8.3,High
+626,17,Female,North America,8.9,Online Multiplayer,MOBA,Yes,Never,Social Fun,CS:GO,888.0,7.5,Medium
+627,20,Female,Asia,6.5,Story Mode,Adventure,No,Never,Social Fun,CS:GO,1342.0,7.8,Medium
+628,32,Female,South America,1.8,Story Mode,Adventure,No,Sometimes,Social Fun,CS:GO,294.0,7.7,Medium
+629,33,Female,North America,6.1,Online Multiplayer,MOBA,Yes,Always,Social Fun,The Witcher 3,672.0,7.5,Medium
+630,19,Female,North America,17.2,Online Multiplayer,RPG,Yes,Always,Social Fun,Valorant,1108.0,6.3,Medium
+631,29,Male,Asia,1.0,Online Multiplayer,MOBA,No,Sometimes,Relaxation,CS:GO,743.0,9.0,High
+632,16,Male,South America,4.1,Story Mode,FPS,No,Never,Competition,GTA V,0.0,6.2,Medium
+633,24,Male,South America,10.8,Story Mode,FPS,Yes,Sometimes,Relaxation,Valorant,805.0,8.7,High
+634,32,Male,North America,9.6,Online Multiplayer,FPS,Yes,Sometimes,Story,GTA V,0.0,9.9,High
+635,27,Male,Asia,4.3,Story Mode,RPG,No,Sometimes,Relaxation,Valorant,365.0,6.8,Medium
+636,19,Male,Europe,11.6,Online Multiplayer,RPG,Yes,Sometimes,Social Fun,CS:GO,199.0,7.6,Medium
+637,15,Male,Europe,12.7,Online Multiplayer,MOBA,Yes,Always,Social Fun,Minecraft,1466.0,8.2,High
+638,15,Female,South America,6.7,Both,RPG,Yes,Always,Story,FIFA,1623.0,7.4,Medium
+639,32,Female,Europe,7.8,Both,RPG,Yes,Always,Competition,CS:GO,1071.0,6.8,Medium
+640,29,Male,South America,4.9,Story Mode,FPS,Yes,Never,Relaxation,The Witcher 3,785.0,6.8,Medium
+641,31,Male,South America,12.5,Online Multiplayer,RPG,Yes,Never,Story,Minecraft,914.0,8.9,High
+642,25,Female,South America,7.3,Both,Adventure,Yes,Always,Story,The Witcher 3,1466.0,8.4,High
+643,35,Male,Europe,13.8,Online Multiplayer,FPS,Yes,Always,Story,Valorant,0.0,9.1,High
+644,31,Female,South America,8.3,Online Multiplayer,FPS,Yes,Sometimes,Competition,The Witcher 3,362.0,10.0,High
+645,27,Male,North America,8.9,Online Multiplayer,FPS,Yes,Always,Social Fun,Minecraft,1402.0,8.6,High
+646,15,Male,Asia,5.3,Story Mode,FPS,No,Never,Story,Minecraft,1506.0,5.8,Low
+647,16,Female,Asia,9.1,Story Mode,RPG,Yes,Always,Competition,CS:GO,1195.0,9.2,High
+648,23,Male,South America,10.4,Online Multiplayer,FPS,Yes,Always,Social Fun,GTA V,378.0,7.0,Medium
+649,17,Male,Asia,6.4,Story Mode,Adventure,No,Never,Competition,CS:GO,1395.0,4.8,Low
+650,15,Female,Europe,8.5,Both,MOBA,Yes,Always,Competition,Valorant,1581.0,5.6,Low
+651,35,Male,Europe,8.9,Online Multiplayer,RPG,Yes,Never,Story,The Witcher 3,1259.0,7.3,Medium
+652,30,Male,Asia,5.4,Story Mode,Sports,No,Never,Relaxation,GTA V,0.0,6.9,Medium
+653,20,Female,Europe,1.3,Both,RPG,Yes,Always,Social Fun,FIFA,962.0,9.4,High
+654,31,Male,Asia,11.0,Online Multiplayer,RPG,Yes,Always,Story,Minecraft,1193.0,7.2,Medium
+655,19,Female,Asia,6.2,Online Multiplayer,Sports,No,Sometimes,Relaxation,GTA V,642.0,8.7,High
+656,19,Male,Asia,5.1,Story Mode,FPS,No,Never,Competition,GTA V,993.0,2.5,Low
+657,20,Male,South America,8.7,Story Mode,Sports,No,Sometimes,Social Fun,CS:GO,643.0,7.1,Medium
+658,17,Male,Asia,2.5,Both,FPS,No,Sometimes,Social Fun,FIFA,469.0,6.1,Medium
+659,35,Male,South America,14.7,Online Multiplayer,RPG,Yes,Always,Relaxation,Minecraft,1655.0,7.6,Medium
+660,19,Female,Asia,7.2,Both,FPS,Yes,Always,Social Fun,Valorant,1008.0,8.3,High
+661,35,Female,Asia,13.1,Online Multiplayer,Adventure,Yes,Sometimes,Social Fun,Valorant,347.0,7.0,Medium
+662,19,Male,Asia,16.6,Online Multiplayer,Adventure,Yes,Always,Relaxation,GTA V,212.0,7.0,Medium
+663,24,Female,Europe,8.0,Story Mode,Adventure,No,Never,Competition,GTA V,470.0,5.5,Low
+664,24,Male,South America,10.0,Online Multiplayer,RPG,Yes,Always,Competition,The Witcher 3,472.0,8.4,High
+665,33,Male,South America,7.0,Online Multiplayer,RPG,Yes,Sometimes,Social Fun,FIFA,973.0,7.8,Medium
+666,31,Male,Asia,16.3,Online Multiplayer,FPS,Yes,Always,Competition,Minecraft,1143.0,9.8,High
+667,35,Male,Asia,15.7,Online Multiplayer,FPS,Yes,Always,Relaxation,GTA V,1142.0,8.7,High
+668,28,Male,Europe,9.4,Online Multiplayer,Sports,No,Never,Social Fun,The Witcher 3,525.0,5.2,Low
+669,23,Female,Europe,9.1,Both,RPG,Yes,Always,Social Fun,FIFA,1360.0,9.2,High
+670,28,Male,Europe,16.7,Online Multiplayer,MOBA,Yes,Always,Relaxation,Minecraft,1514.0,8.5,High
+671,15,Male,South America,7.6,Story Mode,MOBA,No,Never,Story,Valorant,770.0,5.5,Low
+672,33,Male,South America,7.0,Both,RPG,Yes,Always,Competition,The Witcher 3,384.0,7.7,Medium
+673,27,Male,South America,1.3,Both,Adventure,No,Never,Social Fun,FIFA,950.0,7.9,Medium
+674,27,Female,Asia,11.1,Online Multiplayer,FPS,Yes,Always,Social Fun,The Witcher 3,1980.0,10.0,High
+675,18,Male,South America,9.5,Both,FPS,Yes,Always,Story,GTA V,371.0,9.1,High
+676,15,Male,North America,4.1,Story Mode,FPS,No,Never,Social Fun,CS:GO,637.0,7.1,Medium
+677,31,Male,North America,9.3,Story Mode,RPG,No,Never,Competition,Valorant,929.0,6.0,Medium
+678,22,Male,Europe,7.6,Story Mode,RPG,No,Sometimes,Competition,GTA V,1171.0,8.1,High
+679,16,Male,South America,5.3,Both,RPG,Yes,Always,Social Fun,GTA V,0.0,8.6,High
+680,22,Male,North America,25.7,Online Multiplayer,RPG,Yes,Always,Relaxation,FIFA,1553.0,5.4,Low
+681,21,Female,Europe,5.7,Story Mode,RPG,No,Sometimes,Relaxation,The Witcher 3,1546.0,6.1,Medium
+682,16,Female,South America,11.1,Story Mode,Adventure,No,Sometimes,Relaxation,Valorant,688.0,8.3,High
+683,17,Male,Asia,8.6,Both,MOBA,No,Never,Social Fun,GTA V,2253.0,6.6,Medium
+684,32,Male,North America,9.9,Both,FPS,Yes,Always,Social Fun,FIFA,1514.0,8.4,High
+685,26,Male,Asia,11.6,Online Multiplayer,FPS,Yes,Always,Competition,Valorant,1487.0,8.9,High
+686,15,Male,South America,8.6,Both,Adventure,Yes,Always,Competition,The Witcher 3,1494.0,6.3,Medium
+687,26,Male,North America,14.5,Online Multiplayer,RPG,Yes,Always,Social Fun,GTA V,1479.0,8.6,High
+688,19,Male,South America,10.0,Online Multiplayer,Adventure,Yes,Always,Social Fun,Minecraft,889.0,9.0,High
+689,31,Male,Asia,14.3,Online Multiplayer,FPS,No,Never,Social Fun,GTA V,840.0,4.9,Low
+690,30,Male,North America,14.0,Online Multiplayer,RPG,Yes,Always,Story,GTA V,428.0,7.3,Medium
+691,29,Male,Asia,9.2,Story Mode,FPS,Yes,Always,Relaxation,Valorant,611.0,8.0,High
+692,29,Male,South America,14.1,Online Multiplayer,FPS,Yes,Always,Story,Valorant,745.0,8.1,High
+693,19,Male,South America,11.1,Online Multiplayer,Adventure,Yes,Always,Social Fun,Valorant,933.0,8.8,High
+694,35,Male,Asia,6.4,Both,RPG,Yes,Always,Story,Valorant,1699.0,9.1,High
+695,28,Male,North America,6.0,Both,MOBA,Yes,Always,Social Fun,FIFA,0.0,9.3,High
+696,16,Female,Asia,3.7,Both,MOBA,Yes,Always,Competition,CS:GO,1572.0,9.2,High
+697,25,Male,South America,9.7,Both,RPG,Yes,Always,Relaxation,FIFA,394.0,6.2,Medium
+698,33,Female,Asia,1.0,Story Mode,MOBA,No,Never,Social Fun,GTA V,848.0,8.6,High
+699,21,Male,South America,7.3,Online Multiplayer,FPS,No,Never,Competition,FIFA,538.0,6.3,Medium
+700,20,Female,Asia,12.8,Online Multiplayer,RPG,Yes,Always,Social Fun,The Witcher 3,1827.0,8.0,High
+701,16,Male,North America,6.4,Story Mode,Adventure,No,Never,Social Fun,Minecraft,650.0,3.9,Low
+702,20,Female,North America,10.3,Online Multiplayer,RPG,Yes,Always,Competition,Valorant,1161.0,7.4,Medium
+703,32,Female,Asia,9.9,Story Mode,RPG,No,Never,Relaxation,The Witcher 3,1187.0,6.1,Medium
+704,16,Male,Asia,15.4,Online Multiplayer,FPS,Yes,Always,Relaxation,Minecraft,320.0,8.7,High
+705,32,Male,North America,11.6,Online Multiplayer,RPG,Yes,Always,Competition,The Witcher 3,852.0,6.8,Medium
+706,29,Male,South America,4.2,Story Mode,MOBA,No,Never,Competition,GTA V,1502.0,4.6,Low
+707,33,Male,North America,3.3,Story Mode,MOBA,Yes,Always,Social Fun,Valorant,463.0,7.9,Medium
+708,16,Male,South America,7.9,Story Mode,Adventure,No,Never,Social Fun,The Witcher 3,1314.0,6.0,Medium
+709,34,Male,Asia,6.9,Story Mode,Adventure,No,Never,Story,GTA V,734.0,7.3,Medium
+710,20,Male,Asia,10.5,Online Multiplayer,RPG,Yes,Sometimes,Social Fun,Valorant,1482.0,10.0,High
+711,15,Male,South America,10.1,Online Multiplayer,RPG,Yes,Always,Relaxation,CS:GO,1774.0,7.1,Medium
+712,29,Female,Asia,5.8,Both,FPS,Yes,Always,Social Fun,GTA V,0.0,5.6,Low
+713,24,Male,South America,8.5,Story Mode,RPG,No,Never,Relaxation,FIFA,231.0,4.7,Low
+714,33,Other,Europe,22.2,Online Multiplayer,RPG,Yes,Always,Relaxation,Valorant,681.0,6.1,Medium
+715,31,Male,North America,7.7,Both,Sports,Yes,Always,Social Fun,The Witcher 3,1633.0,10.0,High
+716,19,Male,Europe,13.3,Online Multiplayer,RPG,Yes,Always,Social Fun,Minecraft,1166.0,7.0,Medium
+717,18,Male,South America,10.2,Online Multiplayer,RPG,Yes,Always,Relaxation,The Witcher 3,278.0,8.7,High
+718,24,Male,North America,8.2,Online Multiplayer,RPG,Yes,Never,Social Fun,FIFA,1239.0,9.1,High
+719,31,Female,South America,4.5,Story Mode,Adventure,No,Never,Social Fun,FIFA,443.0,7.5,Medium
+720,24,Male,North America,5.3,Story Mode,Adventure,No,Never,Relaxation,The Witcher 3,1335.0,5.8,Low
+721,31,Female,North America,16.3,Online Multiplayer,FPS,Yes,Sometimes,Social Fun,Minecraft,1169.0,7.8,Medium
+722,34,Male,North America,7.8,Both,RPG,Yes,Always,Story,Valorant,441.0,7.0,Medium
+723,19,Male,North America,9.2,Online Multiplayer,MOBA,Yes,Sometimes,Competition,GTA V,867.0,6.9,Medium
+724,16,Male,South America,13.3,Online Multiplayer,RPG,Yes,Always,Social Fun,FIFA,1512.0,8.9,High
+725,20,Male,North America,11.1,Online Multiplayer,FPS,No,Sometimes,Relaxation,FIFA,0.0,8.5,High
+726,35,Male,North America,7.5,Online Multiplayer,Adventure,Yes,Always,Competition,FIFA,1051.0,6.9,Medium
+727,16,Male,Europe,11.0,Online Multiplayer,MOBA,No,Never,Social Fun,Minecraft,347.0,6.3,Medium
+728,27,Male,Asia,8.8,Story Mode,FPS,No,Never,Competition,CS:GO,892.0,6.9,Medium
+729,25,Male,Asia,4.7,Both,MOBA,Yes,Sometimes,Social Fun,Minecraft,1129.0,8.3,High
+730,25,Male,Europe,1.0,Story Mode,MOBA,Yes,Sometimes,Social Fun,Valorant,1907.0,9.1,High
+731,30,Male,Europe,9.9,Online Multiplayer,RPG,Yes,Always,Social Fun,Valorant,887.0,8.1,High
+732,25,Male,South America,13.3,Online Multiplayer,Sports,Yes,Always,Social Fun,Valorant,1633.0,7.3,Medium
+733,33,Male,South America,12.5,Online Multiplayer,MOBA,Yes,Always,Social Fun,Valorant,480.0,9.0,High
+734,29,Male,South America,12.5,Online Multiplayer,MOBA,Yes,Sometimes,Relaxation,Valorant,652.0,6.9,Medium
+735,30,Male,Europe,7.7,Both,Adventure,Yes,Never,Relaxation,The Witcher 3,1194.0,6.6,Medium
+736,25,Male,Europe,20.7,Online Multiplayer,FPS,Yes,Never,Competition,FIFA,1001.0,9.4,High
+737,30,Male,North America,1.4,Story Mode,FPS,No,Sometimes,Relaxation,Minecraft,736.0,5.2,Low
+738,22,Male,South America,10.4,Both,RPG,Yes,Always,Relaxation,The Witcher 3,722.0,10.0,High
+739,18,Female,South America,8.8,Online Multiplayer,FPS,Yes,Always,Competition,Minecraft,1567.0,9.0,High
+740,22,Male,South America,11.9,Both,RPG,Yes,Always,Competition,CS:GO,756.0,7.5,Medium
+741,18,Male,Asia,5.6,Story Mode,MOBA,No,Never,Social Fun,GTA V,390.0,7.9,Medium
+742,17,Male,North America,5.0,Story Mode,MOBA,No,Sometimes,Story,FIFA,473.0,6.6,Medium
+743,17,Male,South America,6.6,Story Mode,Adventure,Yes,Always,Social Fun,CS:GO,1235.0,8.9,High
+744,32,Male,South America,11.1,Online Multiplayer,MOBA,Yes,Sometimes,Social Fun,The Witcher 3,2028.0,8.7,High
+745,33,Male,South America,13.5,Online Multiplayer,MOBA,No,Never,Relaxation,GTA V,638.0,4.9,Low
+746,33,Female,Asia,10.3,Online Multiplayer,RPG,Yes,Always,Social Fun,CS:GO,1974.0,10.0,High
+747,35,Male,Asia,12.7,Online Multiplayer,FPS,Yes,Sometimes,Social Fun,Minecraft,895.0,9.6,High
+748,19,Male,Europe,7.1,Story Mode,RPG,No,Never,Competition,GTA V,760.0,9.1,High
+749,32,Male,North America,17.3,Online Multiplayer,Adventure,Yes,Always,Competition,Minecraft,445.0,10.0,High
+750,24,Male,Europe,8.1,Both,RPG,Yes,Sometimes,Relaxation,CS:GO,801.0,8.2,High
+751,35,Male,North America,8.3,Story Mode,Adventure,No,Sometimes,Relaxation,The Witcher 3,522.0,5.7,Low
+752,20,Male,Asia,9.7,Online Multiplayer,FPS,Yes,Never,Social Fun,Minecraft,482.0,7.3,Medium
+753,15,Male,South America,8.6,Online Multiplayer,Adventure,No,Sometimes,Social Fun,GTA V,74.0,7.3,Medium
+754,19,Female,Europe,10.2,Both,MOBA,Yes,Always,Relaxation,CS:GO,1783.0,7.0,Medium
+755,23,Male,South America,4.9,Both,Adventure,Yes,Sometimes,Social Fun,Minecraft,1432.0,6.7,Medium
+756,26,Male,Europe,10.1,Story Mode,Sports,Yes,Always,Competition,The Witcher 3,1036.0,7.5,Medium
+757,28,Male,Asia,7.3,Online Multiplayer,MOBA,Yes,Always,Social Fun,FIFA,828.0,7.7,Medium
+758,16,Male,Asia,10.6,Online Multiplayer,Sports,Yes,Sometimes,Competition,The Witcher 3,897.0,7.2,Medium
+759,31,Male,Asia,15.0,Online Multiplayer,Sports,Yes,Always,Competition,The Witcher 3,512.0,7.5,Medium
+760,28,Male,Europe,14.9,Online Multiplayer,MOBA,No,Never,Competition,FIFA,333.0,4.9,Low
+761,27,Female,North America,4.8,Both,Adventure,Yes,Always,Competition,The Witcher 3,1259.0,8.3,High
+762,23,Female,Europe,7.6,Story Mode,FPS,Yes,Always,Competition,FIFA,769.0,7.4,Medium
+763,29,Male,North America,8.6,Story Mode,RPG,No,Sometimes,Social Fun,FIFA,1063.0,7.0,Medium
+764,29,Female,Europe,9.9,Both,RPG,Yes,Always,Social Fun,Minecraft,69.0,7.8,Medium
+765,25,Male,Europe,6.5,Story Mode,FPS,No,Never,Social Fun,Minecraft,742.0,5.3,Low
+766,30,Male,Asia,7.4,Online Multiplayer,FPS,Yes,Never,Competition,FIFA,323.0,7.9,Medium
+767,31,Male,South America,13.5,Online Multiplayer,Sports,Yes,Always,Social Fun,CS:GO,1142.0,9.1,High
+768,18,Other,South America,3.7,Both,MOBA,Yes,Always,Competition,GTA V,1398.0,8.2,High
+769,15,Male,North America,14.6,Online Multiplayer,MOBA,Yes,Always,Social Fun,CS:GO,1630.0,8.3,High
+770,22,Male,South America,9.3,Both,RPG,Yes,Always,Relaxation,FIFA,586.0,9.7,High
+771,31,Male,Europe,10.5,Both,FPS,Yes,Sometimes,Story,GTA V,336.0,10.0,High
+772,17,Male,Europe,12.5,Online Multiplayer,FPS,Yes,Sometimes,Social Fun,Minecraft,691.0,6.5,Medium
+773,34,Male,Asia,1.4,Story Mode,FPS,Yes,Sometimes,Social Fun,GTA V,550.0,6.1,Medium
+774,29,Male,Asia,5.2,Both,FPS,Yes,Always,Social Fun,FIFA,1116.0,7.6,Medium
+775,29,Male,South America,9.6,Story Mode,FPS,No,Never,Competition,Minecraft,199.0,8.1,High
+776,28,Male,North America,8.9,Both,Sports,Yes,Always,Competition,GTA V,23.0,8.5,High
+777,28,Male,South America,9.0,Both,Adventure,Yes,Always,Social Fun,GTA V,727.0,9.3,High
+778,16,Male,South America,9.3,Online Multiplayer,FPS,Yes,Sometimes,Relaxation,CS:GO,1263.0,7.5,Medium
+779,27,Male,South America,14.1,Online Multiplayer,FPS,Yes,Never,Social Fun,GTA V,386.0,5.7,Low
+780,28,Male,South America,4.7,Both,RPG,Yes,Always,Competition,FIFA,1325.0,6.4,Medium
+781,33,Male,Europe,3.4,Story Mode,FPS,No,Never,Competition,Valorant,1083.0,8.4,High
+782,21,Male,North America,16.2,Online Multiplayer,Sports,Yes,Always,Relaxation,Valorant,1673.0,9.3,High
+783,17,Male,Europe,6.5,Online Multiplayer,RPG,No,Never,Social Fun,Valorant,499.0,5.7,Low
+784,29,Female,North America,3.2,Story Mode,RPG,No,Sometimes,Story,FIFA,97.0,7.3,Medium
+785,28,Male,Asia,10.7,Both,RPG,Yes,Always,Relaxation,Valorant,1199.0,8.6,High
+786,25,Male,South America,7.8,Both,FPS,No,Sometimes,Social Fun,CS:GO,1040.0,6.0,Medium
+787,29,Male,Europe,7.1,Story Mode,Adventure,No,Never,Social Fun,FIFA,1001.0,7.1,Medium
+788,27,Male,North America,8.5,Online Multiplayer,Adventure,Yes,Sometimes,Competition,Minecraft,376.0,9.9,High
+789,32,Male,Asia,17.8,Online Multiplayer,Adventure,Yes,Always,Relaxation,FIFA,1288.0,9.1,High
+790,20,Male,Asia,10.7,Both,FPS,Yes,Always,Relaxation,FIFA,583.0,8.6,High
+791,17,Male,South America,14.0,Online Multiplayer,RPG,Yes,Sometimes,Competition,GTA V,1001.0,7.1,Medium
+792,33,Male,North America,15.6,Online Multiplayer,RPG,No,Never,Story,GTA V,670.0,6.4,Medium
+793,29,Female,Europe,1.0,Online Multiplayer,MOBA,Yes,Sometimes,Social Fun,GTA V,1077.0,8.0,High
+794,19,Female,South America,7.9,Story Mode,RPG,No,Never,Social Fun,The Witcher 3,302.0,5.4,Low
+795,24,Male,Europe,12.4,Both,RPG,Yes,Never,Story,CS:GO,1150.0,8.1,High
+796,21,Male,Asia,16.4,Online Multiplayer,Adventure,Yes,Always,Relaxation,FIFA,1229.0,7.1,Medium
+797,31,Female,Europe,20.2,Online Multiplayer,Adventure,Yes,Sometimes,Competition,FIFA,958.0,8.4,High
+798,21,Male,Europe,6.8,Story Mode,RPG,No,Never,Relaxation,GTA V,1722.0,7.6,Medium
+799,26,Male,South America,3.0,Both,RPG,Yes,Sometimes,Story,FIFA,1004.0,7.5,Medium
+800,31,Female,Europe,17.0,Online Multiplayer,RPG,Yes,Always,Relaxation,Minecraft,1359.0,8.3,High
