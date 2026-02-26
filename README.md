@@ -1,6 +1,6 @@
 # 🎮 Gaming Preferences Analysis | Power BI Dashboard
 
-## 📌 Project Overview
+## Project Overview
 This project is an **end-to-end Power BI data analytics dashboard** that analyzes **adult gaming preferences and behavior** across demographics, regions, and engagement levels.
 
 It demonstrates the **complete data analyst workflow**:
@@ -17,7 +17,7 @@ The dashboard helps answer **business-style questions** such as:
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives
 - Analyze **player engagement** using hours played per week
 - Understand **demographic trends** by age group and region
 - Identify **popular game genres and gaming modes**
@@ -26,7 +26,7 @@ The dashboard helps answer **business-style questions** such as:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - **Power BI Desktop**
 - **Power Query (ETL & Data Cleaning)**
 - **DAX (Calculated Columns & Measures)**
@@ -35,7 +35,7 @@ The dashboard helps answer **business-style questions** such as:
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 - **File:** `adult_gaming_preferences_synthetic.csv`
 - **Type:** Synthetic dataset (for learning & portfolio use)
 - **Key Columns:**
@@ -51,7 +51,7 @@ The dashboard helps answer **business-style questions** such as:
 
 ---
 
-## 🔄 Data Cleaning & Transformation (Power Query)
+##  Data Cleaning & Transformation (Power Query)
 Performed the following steps:
 - Promoted first row as headers
 - Renamed columns for clarity and consistency
@@ -61,7 +61,7 @@ Performed the following steps:
 
 ---
 
-## 🧮 DAX Calculations
+## DAX Calculations
 Key calculated columns and measures include:
 
 ### Calculated Columns
@@ -81,7 +81,7 @@ Key calculated columns and measures include:
 
 ---
 
-## 📊 Dashboard Features & Visuals
+##  Dashboard Features & Visuals
 The Power BI dashboard includes:
 
 ### KPI Cards
@@ -103,7 +103,7 @@ All visuals are **fully interactive**, allowing users to explore insights dynami
 
 ---
 
-## 🖼 Dashboard Preview
+## Dashboard Preview
 Below is a snapshot of the final Power BI dashboard:
 
 ![Power BI Dashboard Preview](Screenshot%202026-02-08%20130710.png)
@@ -119,7 +119,7 @@ Below is a snapshot of the final Power BI dashboard:
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 - The **25–34 age group** is the most active player segment
 - **FPS and RPG** are the most popular game genres
 - **Online Multiplayer** is the most preferred gaming mode
@@ -128,7 +128,7 @@ Below is a snapshot of the final Power BI dashboard:
 
 ---
 
-## 💼 Skills Demonstrated
+## Skills Demonstrated
 - Data Cleaning & Transformation (Power Query)
 - Exploratory Data Analysis (EDA)
 - DAX Calculations
@@ -139,7 +139,7 @@ Below is a snapshot of the final Power BI dashboard:
 
 ---
 
-## 🎯 Use Case
+## Use Case
 This project is ideal for showcasing skills for:
 - Data Analyst
 - Business Analyst
@@ -148,12 +148,12 @@ This project is ideal for showcasing skills for:
 
 ---
 
-## 🙌 Author
+## Author
 **Sai Anirudh B**  
 Aspiring Data Analyst  
 Skills: Power BI | SQL | Data Visualization | DAX  
 
 ---
 
-⭐ If you found this project useful, feel free to star the repository!
+If you found this project useful, feel free to star the repository!
 
